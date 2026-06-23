@@ -1,0 +1,1501 @@
+Customer ID,Age,Gender,City,Subscription Type,Monthly Spending,Tenure,Number of Purchases,Customer Support Requests,Login Frequency,Last Activity Date,Satisfaction Score,Churn Status
+CUST00001,63,Female,Wayneport,Premium,957.38,114,53,4,16,2025-07-18,8,No
+CUST00002,66,Female,North Richard,Basic,737.62,43,89,7,40,2026-02-24,1,No
+CUST00003,36,Male,Rodriguezside,Basic,1233.88,61,64,16,31,2025-10-11,6,No
+CUST00004,38,Female,Lake Jimmy,Standard,1067.98,104,152,15,48,2026-06-04,6,No
+CUST00005,63,Male,South Dominique,Standard,1542.92,50,56,9,55,2026-04-14,9,No
+CUST00006,46,Female,North Erinfurt,Basic,114.15,95,130,20,8,2026-02-14,10,No
+CUST00007,54,Male,South Johnmouth,Basic,884.94,56,16,4,20,2026-02-16,8,No
+CUST00008,40,Female,East Michaeltown,Basic,669.89,57,114,15,16,2025-09-10,2,Yes
+CUST00009,37,Male,Port Nicole,Standard,64.14,17,97,7,49,2026-04-12,4,Yes
+CUST00010,58,Female,Rochaburgh,Standard,595.76,3,112,9,35,2025-08-26,2,No
+CUST00011,63,Male,Sheltonhaven,Premium,1868.89,21,124,8,52,2026-03-02,1,Yes
+CUST00012,69,Female,Santosside,Premium,480.66,95,30,9,16,2026-06-18,3,No
+CUST00013,69,Female,Port Theresa,Basic,1872.29,97,31,2,39,2026-05-28,3,No
+CUST00014,36,Male,Caitlinchester,Standard,931.22,2,122,9,17,2025-12-29,9,No
+CUST00015,45,Female,Hansenberg,Standard,738.19,51,21,2,55,2025-08-14,8,No
+CUST00016,68,Male,East Jeffrey,Standard,1013.76,75,127,18,18,2025-11-08,7,No
+CUST00017,23,Male,Lozanoburgh,Basic,345.03,114,36,7,16,2025-12-21,8,Yes
+CUST00018,31,Female,Nealport,Premium,774.76,25,150,18,38,2026-02-04,3,Yes
+CUST00019,69,Male,Ronaldfort,Standard,1144.48,81,76,8,24,2025-09-03,4,Yes
+CUST00020,28,Male,Lake Joshuamouth,Premium,828.16,70,139,13,60,2026-03-25,9,Yes
+CUST00021,47,Male,North Trevor,Standard,1387.68,9,95,3,16,2025-12-14,3,No
+CUST00022,32,Female,Port Jonathanport,Premium,285.28,52,143,6,3,2025-08-09,5,No
+CUST00023,66,Male,Robbinsview,Premium,1152.69,100,106,15,36,2026-04-15,7,No
+CUST00024,36,Male,Tonyhaven,Premium,1449.96,16,63,0,28,2026-02-03,4,No
+CUST00025,57,Female,Isaacbury,Basic,1568.8,108,137,9,12,2025-12-02,1,Yes
+CUST00026,68,Female,Lake Adam,Premium,1128.56,64,120,17,39,2025-07-18,7,No
+CUST00027,22,Male,Stevensonstad,Basic,1985.96,43,161,6,15,2026-02-17,8,No
+CUST00028,41,Female,Carlberg,Premium,1745.25,78,148,20,30,2026-06-17,9,No
+CUST00029,63,Female,Lake Roger,Basic,1388.87,76,179,11,34,2025-10-25,5,No
+CUST00030,58,Male,Lindaview,Standard,811.44,104,119,17,1,2026-03-15,8,Yes
+CUST00031,58,Female,Port Richardton,Standard,1724.56,65,149,1,51,2026-06-05,2,Yes
+CUST00032,22,Female,Lopeztown,Basic,1069.47,57,77,4,37,2025-12-08,3,No
+CUST00033,55,Female,Nicholasview,Basic,840.44,72,134,19,10,2026-01-26,10,No
+CUST00034,33,Female,Port Timothyburgh,Basic,449.66,46,22,6,16,2025-07-10,1,Yes
+CUST00035,34,Female,Davisside,Basic,419.4,63,60,14,2,2025-06-30,2,Yes
+CUST00036,37,Female,Lauraland,Basic,1239.76,81,168,15,58,2026-02-19,1,Yes
+CUST00037,56,Female,Harrisview,Standard,1917.7,50,39,14,1,2026-04-08,10,Yes
+CUST00038,18,Male,South Stephen,Standard,1797.85,115,167,10,7,2025-09-18,10,No
+CUST00039,26,Female,West Joshua,Standard,1226.19,65,53,12,54,2026-04-17,10,Yes
+CUST00040,31,Female,Daltonshire,Basic,841.95,113,172,4,60,2025-10-01,10,No
+CUST00041,21,Female,North Connie,Basic,1841.12,75,172,18,59,2026-04-04,4,Yes
+CUST00042,23,Female,North Richardfurt,Basic,27.76,113,78,8,12,2025-08-30,8,No
+CUST00043,66,Male,Hollymouth,Premium,1691.68,82,65,18,36,2025-07-30,3,Yes
+CUST00044,66,Female,Lake Ronaldberg,Premium,1062.12,7,140,2,4,2026-06-11,7,Yes
+CUST00045,48,Female,East Michaelchester,Standard,1606.87,90,136,2,17,2025-06-23,5,No
+CUST00046,49,Male,Port Monicashire,Basic,1867.87,3,86,0,44,2026-04-09,8,No
+CUST00047,32,Male,Serranofort,Premium,470.15,86,6,4,9,2025-09-29,7,Yes
+CUST00048,74,Male,Timothyfort,Basic,125.62,72,150,1,32,2025-10-25,6,No
+CUST00049,18,Female,Port Kristyport,Premium,1527.86,23,1,13,21,2026-05-28,1,No
+CUST00050,21,Female,New Sherry,Standard,1254.79,57,110,7,3,2025-07-30,10,Yes
+CUST00051,20,Male,Dylanmouth,Basic,972.42,55,88,11,6,2026-01-21,6,Yes
+CUST00052,71,Male,Justinland,Premium,300.73,72,34,18,42,2025-08-16,3,Yes
+CUST00053,69,Male,Grayland,Basic,1975.12,103,145,13,60,2025-12-31,8,No
+CUST00054,54,Female,Lake Doris,Basic,377.34,42,102,1,49,2025-08-10,10,No
+CUST00055,18,Male,Kellerberg,Basic,1725.23,119,144,1,50,2026-05-24,9,No
+CUST00056,35,Male,New Christopher,Basic,687.96,90,5,1,3,2025-11-08,3,No
+CUST00057,49,Male,North Andrewfort,Premium,234.42,33,184,7,8,2025-10-25,1,No
+CUST00058,66,Female,Autumnmouth,Premium,1216.98,12,195,12,24,2025-07-05,10,No
+CUST00059,34,Male,Brucehaven,Basic,1235.36,80,57,6,0,2025-12-29,4,No
+CUST00060,63,Female,West Johnshire,Standard,505.5,119,91,20,26,2025-08-30,8,Yes
+CUST00061,28,Female,Jarvisfurt,Standard,836.26,5,190,4,32,2026-03-04,3,No
+CUST00062,28,Male,Romanland,Basic,257.99,75,68,18,39,2025-09-03,10,No
+CUST00063,25,Female,Jonathanburgh,Premium,1533.26,116,186,19,8,2025-09-06,1,Yes
+CUST00064,61,Male,New Jacobville,Premium,462.91,83,185,12,57,2026-06-10,4,Yes
+CUST00065,18,Female,Mikaylaton,Basic,487.77,83,146,10,28,2026-03-26,4,Yes
+CUST00066,22,Male,Riddleland,Standard,632.58,53,195,11,37,2026-04-06,9,Yes
+CUST00067,61,Female,Duffyview,Basic,248.19,80,88,15,33,2025-08-12,3,Yes
+CUST00068,32,Female,Mitchellside,Standard,1347.04,15,131,10,48,2026-03-14,4,Yes
+CUST00069,59,Female,Port Melvin,Standard,516.11,43,187,8,51,2026-01-22,7,No
+CUST00070,68,Female,East Christopher,Premium,93.59,43,86,1,18,2025-08-13,10,No
+CUST00071,32,Male,North Stephen,Standard,1662.96,58,125,7,48,2026-04-23,1,No
+CUST00072,59,Male,Nicholsonbury,Standard,1879.64,50,54,3,20,2025-11-25,9,No
+CUST00073,51,Female,New Davidburgh,Premium,766.66,9,32,14,7,2025-09-04,9,No
+CUST00074,66,Male,Hillburgh,Standard,730.37,46,41,14,56,2026-01-31,8,No
+CUST00075,28,Male,East Scott,Premium,534.73,115,137,7,5,2025-10-02,2,No
+CUST00076,41,Female,South Victoria,Basic,793.52,42,60,19,16,2025-12-15,8,No
+CUST00077,22,Female,Port Susan,Basic,253.95,102,103,19,18,2026-03-18,1,No
+CUST00078,47,Female,North Angie,Basic,895.33,111,1,11,31,2025-07-19,6,No
+CUST00079,52,Female,Gibsonside,Premium,1992.58,90,79,4,3,2025-09-01,1,Yes
+CUST00080,32,Female,New Connorbury,Basic,439.29,54,133,7,59,2025-12-08,2,Yes
+CUST00081,57,Male,Doylebury,Standard,1344.91,79,188,20,14,2025-11-21,8,Yes
+CUST00082,31,Male,North Debra,Premium,952.85,81,194,17,14,2026-04-26,9,No
+CUST00083,37,Male,Port Shirley,Standard,1020.91,68,163,14,54,2025-12-12,8,No
+CUST00084,47,Male,Barajasshire,Premium,1329.62,70,174,14,20,2025-07-05,1,Yes
+CUST00085,54,Male,Hollandfurt,Basic,917.66,58,92,18,10,2025-11-01,10,No
+CUST00086,34,Female,New Bernard,Standard,1631.17,69,113,0,34,2025-11-18,7,No
+CUST00087,67,Male,New Edward,Basic,1152.63,19,174,14,31,2026-02-26,5,Yes
+CUST00088,59,Male,South John,Standard,339.28,9,170,7,22,2025-11-28,2,Yes
+CUST00089,64,Male,Arianafort,Premium,329.68,37,165,15,57,2026-02-27,7,No
+CUST00090,37,Female,New Karen,Basic,177.48,116,25,2,37,2025-11-28,7,No
+CUST00091,64,Male,Mitchellshire,Premium,247.85,32,195,7,34,2026-03-06,2,No
+CUST00092,27,Female,East Sherry,Basic,553.89,82,77,19,59,2026-03-30,3,No
+CUST00093,31,Female,Nicholasport,Standard,1698.44,25,40,14,12,2026-01-24,2,Yes
+CUST00094,42,Female,Weissberg,Standard,59.13,82,115,12,42,2026-06-01,2,Yes
+CUST00095,50,Female,Sandraville,Basic,1405.62,105,162,9,26,2026-05-11,2,Yes
+CUST00096,23,Male,East Rebecca,Standard,1189.37,68,107,13,10,2025-07-31,10,Yes
+CUST00097,36,Male,Lake Jessica,Premium,376.58,82,87,16,52,2026-01-15,3,Yes
+CUST00098,22,Male,Meyersshire,Premium,1011.71,56,183,6,2,2025-06-26,3,Yes
+CUST00099,44,Female,Port Anthony,Standard,1100.87,103,62,17,10,2025-09-25,10,No
+CUST00100,69,Female,Richmondville,Premium,1785.01,41,58,14,58,2025-07-18,5,No
+CUST00101,58,Male,New Michael,Standard,650.8,107,179,15,18,2025-08-12,8,No
+CUST00102,33,Male,New Amanda,Basic,380.51,40,84,9,26,2026-06-05,3,Yes
+CUST00103,62,Female,Jonathanchester,Premium,1408.09,24,4,9,51,2026-05-30,7,No
+CUST00104,38,Female,Matthewsville,Premium,480.77,97,165,7,49,2026-04-20,6,No
+CUST00105,50,Female,North Kyle,Basic,1894.61,88,22,7,24,2025-08-13,9,No
+CUST00106,27,Male,Julianmouth,Standard,1751.96,76,36,4,41,2026-02-04,7,No
+CUST00107,61,Female,Port Cody,Basic,1915.47,53,62,2,46,2026-02-03,8,No
+CUST00108,31,Male,North Nicole,Standard,10.06,45,5,6,32,2025-07-05,3,Yes
+CUST00109,26,Female,West Timothy,Standard,1942.01,32,195,4,53,2026-03-13,8,No
+CUST00110,44,Female,North Paulamouth,Standard,1091.72,57,46,10,12,2026-03-29,8,No
+CUST00111,53,Female,Franklinport,Premium,587.47,40,128,14,18,2026-06-20,6,No
+CUST00112,56,Female,South Heather,Standard,1272.6,104,65,20,41,2026-01-02,2,Yes
+CUST00113,48,Female,East Teresa,Basic,978.01,120,50,10,1,2026-03-11,6,No
+CUST00114,46,Male,Williamstown,Standard,1639.96,45,123,19,55,2025-12-07,8,Yes
+CUST00115,29,Male,North Kenneth,Premium,1267.54,86,159,5,42,2025-08-06,9,No
+CUST00116,48,Female,Lake Elizabethport,Basic,575.62,29,9,11,8,2025-09-12,1,Yes
+CUST00117,24,Female,Robertoborough,Basic,1072.19,59,126,17,53,2026-05-13,8,No
+CUST00118,59,Male,West Amyland,Standard,1749.24,96,33,8,3,2025-06-29,8,Yes
+CUST00119,52,Female,Mortonfort,Standard,12.61,62,92,6,18,2026-02-21,6,No
+CUST00120,45,Male,Lake Peterbury,Standard,1970.68,92,133,6,13,2025-10-19,2,Yes
+CUST00121,44,Female,North Kathrynville,Premium,968.19,62,94,18,14,2025-07-05,8,No
+CUST00122,20,Male,East Stephenport,Basic,626.58,63,86,2,12,2025-11-12,1,Yes
+CUST00123,38,Female,East Lindaville,Standard,501.37,39,34,0,17,2025-09-20,5,No
+CUST00124,69,Female,West Nataliemouth,Premium,426.18,116,172,12,8,2025-06-26,7,No
+CUST00125,51,Male,East Ana,Basic,610.58,101,63,1,40,2025-11-19,10,No
+CUST00126,31,Female,Russellberg,Basic,709.73,15,97,2,4,2026-02-28,3,Yes
+CUST00127,32,Male,South Jamesberg,Standard,1114.0,58,142,12,6,2025-12-24,4,Yes
+CUST00128,61,Male,North Rachel,Standard,952.88,86,23,9,28,2026-04-22,9,Yes
+CUST00129,70,Male,East Stephaniefort,Premium,727.36,10,12,0,37,2026-01-14,5,Yes
+CUST00130,57,Male,East Savannah,Standard,88.83,86,92,19,18,2025-10-06,1,Yes
+CUST00131,45,Male,Robertsonstad,Standard,479.54,81,130,15,9,2025-09-09,7,Yes
+CUST00132,31,Male,East Amber,Basic,1324.25,34,197,12,49,2025-07-29,3,Yes
+CUST00133,59,Female,North Elizabethfort,Basic,1063.54,109,184,0,4,2025-11-12,1,Yes
+CUST00134,45,Female,New Brett,Premium,345.99,99,30,11,25,2025-12-04,2,No
+CUST00135,23,Male,North Paula,Basic,1525.54,99,0,17,47,2026-02-16,4,Yes
+CUST00136,41,Female,Kristinview,Standard,824.46,103,81,2,6,2025-10-17,7,No
+CUST00137,49,Female,Brownmouth,Basic,970.86,34,99,15,15,2026-01-17,5,No
+CUST00138,50,Male,Hutchinsonview,Basic,1201.44,101,120,4,22,2025-12-26,7,No
+CUST00139,54,Male,Victorland,Standard,907.64,114,37,10,14,2025-09-29,1,Yes
+CUST00140,41,Male,Sherryfort,Premium,477.9,35,44,9,26,2025-07-17,6,No
+CUST00141,20,Male,Lake Nancy,Premium,990.93,3,144,8,41,2026-05-23,5,No
+CUST00142,62,Female,Port Christinetown,Standard,1556.37,92,15,8,54,2026-01-14,6,No
+CUST00143,56,Male,Shannonland,Premium,1894.72,96,82,1,4,2025-08-28,2,No
+CUST00144,48,Female,South Kathrynland,Premium,1150.86,54,135,8,14,2025-11-18,5,No
+CUST00145,40,Female,Heatherfurt,Basic,1120.71,97,51,5,36,2026-04-19,6,No
+CUST00146,38,Female,North Carlosborough,Premium,1059.22,96,118,12,29,2026-04-05,2,Yes
+CUST00147,27,Female,East Kelsey,Standard,1414.69,115,197,1,11,2025-07-16,5,No
+CUST00148,33,Male,North Linda,Basic,791.77,101,54,19,52,2025-09-09,8,No
+CUST00149,35,Male,Santanamouth,Basic,205.13,80,6,3,36,2026-04-06,5,No
+CUST00150,32,Female,South Matthewfort,Basic,1496.67,110,117,11,39,2026-01-08,10,No
+CUST00151,48,Male,Jacksonport,Premium,1209.4,10,141,9,29,2026-06-11,8,No
+CUST00152,19,Male,Davismouth,Premium,78.24,106,42,0,60,2025-11-18,5,No
+CUST00153,73,Female,Richardborough,Premium,1949.69,1,110,12,48,2025-07-09,5,Yes
+CUST00154,29,Male,East Alexis,Basic,280.1,66,165,18,55,2026-04-13,1,Yes
+CUST00155,40,Male,South Xavier,Standard,1121.37,107,5,18,25,2026-05-04,7,No
+CUST00156,28,Female,West William,Standard,1218.1,38,16,4,60,2025-06-25,7,No
+CUST00157,23,Female,Englishland,Premium,106.7,116,144,19,9,2025-10-18,2,No
+CUST00158,64,Male,Port Christopher,Standard,1503.7,19,157,10,38,2026-02-26,1,Yes
+CUST00159,59,Male,Ashleytown,Basic,692.29,94,108,20,39,2025-08-10,4,Yes
+CUST00160,29,Female,Tomborough,Standard,346.24,101,4,2,20,2026-04-11,5,No
+CUST00161,38,Male,East Tammyville,Standard,191.74,35,191,9,26,2026-02-10,10,No
+CUST00162,20,Female,Matthewton,Basic,1014.99,40,172,18,4,2025-08-19,10,Yes
+CUST00163,38,Male,Pachecoside,Standard,1838.12,95,117,16,48,2025-07-10,6,No
+CUST00164,50,Female,Debbiemouth,Standard,1566.68,101,68,3,51,2026-05-24,5,No
+CUST00165,71,Male,Scottstad,Premium,1767.69,56,200,13,31,2025-10-24,3,No
+CUST00166,28,Female,Williamsport,Premium,1173.02,25,67,6,35,2025-10-08,7,No
+CUST00167,27,Male,Mcdonaldbury,Basic,724.62,55,26,12,22,2026-05-27,2,Yes
+CUST00168,36,Male,Lake Jeffreyport,Basic,223.04,20,169,16,59,2026-01-09,7,No
+CUST00169,30,Male,Hayesborough,Basic,108.3,59,51,1,9,2025-10-30,9,No
+CUST00170,67,Female,New Holly,Premium,1211.15,31,166,5,33,2025-10-28,2,No
+CUST00171,26,Female,Andrewborough,Premium,1718.12,109,23,14,51,2026-01-19,4,Yes
+CUST00172,19,Male,South Caleb,Basic,1056.31,102,123,11,46,2025-10-24,2,No
+CUST00173,44,Male,Jasonmouth,Basic,1851.19,106,198,7,21,2025-10-30,1,No
+CUST00174,59,Female,Lake Kathy,Standard,762.91,107,192,18,2,2025-10-30,4,Yes
+CUST00175,21,Male,Johnsonview,Premium,200.41,22,39,12,12,2025-07-06,6,No
+CUST00176,67,Female,Harrisonberg,Premium,525.01,11,146,0,32,2026-04-28,1,Yes
+CUST00177,46,Male,Lewismouth,Standard,1593.56,81,127,2,32,2025-09-15,8,No
+CUST00178,30,Male,Blairhaven,Basic,894.53,15,175,8,6,2025-07-24,4,No
+CUST00179,56,Male,Andersonchester,Standard,1670.91,53,65,3,14,2025-07-13,9,Yes
+CUST00180,68,Female,North Alexander,Premium,1332.43,53,0,11,27,2026-01-05,1,No
+CUST00181,56,Female,Tanyaland,Basic,385.59,42,4,1,5,2025-12-03,2,No
+CUST00182,42,Female,New Ambershire,Standard,849.53,118,82,13,23,2025-11-03,4,Yes
+CUST00183,60,Female,New Stacey,Basic,1361.94,92,134,10,31,2025-12-14,6,No
+CUST00184,48,Female,Knoxmouth,Premium,1646.42,14,162,0,18,2026-05-13,4,No
+CUST00185,20,Male,Anneborough,Standard,232.11,35,105,12,47,2026-03-04,5,No
+CUST00186,25,Male,West Nataliemouth,Premium,931.5,66,72,0,40,2025-11-30,3,No
+CUST00187,56,Female,East Andreamouth,Basic,296.66,99,127,9,49,2026-03-02,2,Yes
+CUST00188,58,Female,Sonyamouth,Basic,1978.45,24,84,9,2,2025-12-21,6,No
+CUST00189,61,Male,Lake Josephburgh,Standard,1248.88,81,126,11,39,2025-12-05,7,Yes
+CUST00190,24,Female,West Chelsea,Standard,801.96,19,167,6,59,2026-02-01,7,No
+CUST00191,64,Female,North Matthew,Basic,906.4,111,176,17,11,2026-05-19,2,Yes
+CUST00192,72,Male,North Travis,Standard,1479.44,13,140,15,56,2025-10-28,9,No
+CUST00193,56,Male,Lake Nicole,Premium,1672.7,5,86,8,6,2026-05-20,10,No
+CUST00194,20,Female,Williamsport,Basic,1113.19,62,17,18,50,2025-11-16,4,No
+CUST00195,33,Female,Port Billyview,Standard,515.05,102,134,17,34,2026-02-19,10,Yes
+CUST00196,53,Female,Tabithabury,Premium,813.66,110,79,4,57,2025-09-29,7,Yes
+CUST00197,59,Male,Alexisfort,Basic,1919.58,64,20,9,47,2026-05-20,8,No
+CUST00198,19,Male,Mackenziechester,Basic,886.32,31,1,4,2,2026-01-09,1,Yes
+CUST00199,73,Male,Beasleystad,Standard,48.01,80,199,20,17,2026-02-23,5,Yes
+CUST00200,67,Male,Johnsonport,Basic,1733.03,108,85,7,38,2025-09-27,5,No
+CUST00201,71,Male,Port Shelbyville,Basic,1368.1,57,110,17,10,2025-07-05,6,No
+CUST00202,30,Female,Stephaniefurt,Premium,1250.8,53,76,19,45,2026-04-12,2,Yes
+CUST00203,48,Female,Murrayhaven,Basic,1460.1,11,82,8,17,2025-08-31,5,No
+CUST00204,61,Male,Lindseyshire,Standard,1808.23,44,41,7,40,2025-10-03,6,No
+CUST00205,41,Female,North Karenbury,Premium,835.72,91,132,3,33,2025-10-20,1,No
+CUST00206,36,Female,Whitneymouth,Standard,529.89,42,13,3,32,2025-08-28,2,No
+CUST00207,51,Male,Michaelborough,Standard,1149.86,80,79,10,11,2025-08-25,9,No
+CUST00208,40,Male,East Kenneth,Standard,508.09,11,101,10,22,2025-11-17,10,No
+CUST00209,75,Male,Jamesland,Premium,185.97,21,182,12,59,2025-12-26,9,No
+CUST00210,68,Female,Shepardborough,Basic,1016.75,107,77,18,30,2025-07-16,3,Yes
+CUST00211,55,Male,Brianshire,Premium,634.68,77,121,11,25,2026-02-28,3,Yes
+CUST00212,42,Female,Ryanside,Premium,1426.55,105,33,1,28,2026-04-11,6,No
+CUST00213,32,Female,West Jennifer,Premium,1480.59,66,8,16,19,2025-08-30,10,No
+CUST00214,71,Female,New Cody,Standard,1308.08,32,83,19,21,2026-05-06,6,No
+CUST00215,32,Female,New Kim,Premium,551.16,101,68,14,16,2026-06-05,6,No
+CUST00216,41,Male,Port Joshua,Premium,1389.39,19,136,15,35,2025-09-06,8,No
+CUST00217,23,Male,Jaredfort,Premium,1263.77,56,13,2,1,2026-06-17,5,No
+CUST00218,71,Female,Watsonfort,Basic,1018.14,56,131,5,19,2025-10-01,9,No
+CUST00219,69,Male,North Robert,Standard,390.79,10,36,17,36,2025-07-09,8,Yes
+CUST00220,31,Male,Washingtonmouth,Premium,722.12,24,154,0,32,2026-04-29,2,Yes
+CUST00221,47,Male,East Robinberg,Premium,532.54,38,54,12,59,2026-03-02,5,No
+CUST00222,37,Male,Garciamouth,Premium,1315.26,64,84,0,31,2026-03-27,8,No
+CUST00223,49,Male,West Karen,Premium,689.97,11,198,13,3,2025-12-16,7,Yes
+CUST00224,75,Female,Mariaburgh,Standard,1244.17,100,165,9,14,2025-12-16,8,No
+CUST00225,41,Male,North Amberton,Basic,296.62,116,16,2,1,2026-04-25,8,No
+CUST00226,50,Female,Lake Andrew,Basic,803.39,51,198,7,54,2025-08-14,2,No
+CUST00227,28,Female,West Kimberlystad,Standard,60.34,97,27,0,10,2026-05-07,4,No
+CUST00228,32,Male,Lake Brittany,Standard,1578.11,41,43,2,54,2025-09-03,7,No
+CUST00229,66,Male,Ramosfurt,Standard,1128.41,49,36,6,57,2025-07-09,8,No
+CUST00230,30,Male,Robertfort,Basic,604.47,26,74,0,0,2026-04-15,8,No
+CUST00231,39,Female,Owenburgh,Basic,249.92,10,87,5,17,2025-11-07,7,No
+CUST00232,64,Female,Mcdonaldland,Standard,1001.43,42,52,17,25,2026-05-07,9,No
+CUST00233,32,Male,Port Karen,Premium,1645.62,72,74,17,38,2026-03-30,8,Yes
+CUST00234,51,Female,South Bradville,Basic,1283.33,61,170,14,49,2026-04-12,7,No
+CUST00235,25,Male,Adamport,Basic,906.38,75,3,8,53,2026-01-19,4,Yes
+CUST00236,68,Female,Jessicastad,Basic,1086.87,67,139,2,25,2026-04-22,8,Yes
+CUST00237,70,Male,Hunterside,Basic,857.69,46,83,11,14,2025-09-01,1,Yes
+CUST00238,50,Female,Pamelatown,Standard,1413.62,3,48,18,8,2025-10-16,7,No
+CUST00239,30,Female,Perezmouth,Premium,1635.87,44,112,7,11,2026-04-25,5,No
+CUST00240,44,Female,Mitchelltown,Standard,1508.45,109,44,0,13,2025-10-18,2,No
+CUST00241,29,Female,North Amyberg,Basic,1060.89,88,105,7,33,2025-11-19,1,Yes
+CUST00242,53,Female,Port Charleshaven,Standard,660.56,102,45,14,52,2025-12-21,10,No
+CUST00243,44,Male,Hartview,Standard,1032.67,66,1,20,25,2026-04-17,4,Yes
+CUST00244,32,Male,Lake Mariatown,Basic,1776.71,10,26,11,4,2025-10-02,8,Yes
+CUST00245,31,Female,New Johnchester,Standard,1200.69,32,128,11,42,2025-09-18,6,No
+CUST00246,44,Female,South Tracyborough,Basic,874.66,17,199,16,13,2025-12-05,10,No
+CUST00247,35,Female,Ramirezchester,Premium,539.19,4,56,1,55,2025-11-25,2,No
+CUST00248,68,Male,North Derekmouth,Basic,575.53,78,107,11,4,2025-11-03,1,Yes
+CUST00249,50,Female,New Terri,Basic,419.95,105,51,15,1,2026-06-06,6,No
+CUST00250,72,Female,Michaelport,Standard,1629.95,41,69,13,0,2026-01-09,3,Yes
+CUST00251,29,Male,Lake Benjamin,Basic,710.04,105,134,2,23,2025-07-26,1,No
+CUST00252,73,Male,West Carlos,Basic,1290.76,87,12,9,10,2026-01-17,7,Yes
+CUST00253,74,Male,Burnsmouth,Standard,425.14,68,14,5,13,2026-05-19,3,Yes
+CUST00254,24,Female,South Emmaside,Basic,544.81,102,182,5,14,2025-11-29,8,No
+CUST00255,57,Female,Joshuafort,Standard,1830.27,52,141,1,30,2026-05-30,4,No
+CUST00256,41,Male,Jonesmouth,Basic,772.62,24,134,2,26,2025-08-19,4,No
+CUST00257,34,Male,North Deborah,Basic,204.75,75,150,18,18,2026-06-16,5,No
+CUST00258,66,Male,Campbellville,Basic,1997.61,76,87,7,19,2026-01-13,7,No
+CUST00259,72,Female,New James,Standard,747.97,39,190,18,43,2026-03-25,5,Yes
+CUST00260,70,Male,South Tonytown,Basic,1577.85,95,112,8,32,2026-01-27,9,No
+CUST00261,37,Female,South Veronicachester,Basic,96.41,6,118,12,37,2025-09-01,8,Yes
+CUST00262,28,Female,Williamfort,Basic,187.32,66,19,12,4,2025-09-06,1,Yes
+CUST00263,52,Female,Amberfort,Standard,1202.27,23,30,16,49,2025-12-27,5,No
+CUST00264,48,Male,West Teresaborough,Premium,61.47,99,129,5,53,2026-02-02,4,No
+CUST00265,71,Male,Scottborough,Basic,1397.21,42,9,6,34,2025-09-07,5,No
+CUST00266,28,Female,South Michelle,Premium,1287.41,35,58,11,12,2026-02-23,10,Yes
+CUST00267,54,Male,North Davidton,Basic,1334.29,5,133,16,50,2026-01-30,4,Yes
+CUST00268,48,Male,Cunninghamport,Basic,1093.54,58,70,10,36,2026-04-18,5,No
+CUST00269,40,Male,West Debbieland,Premium,1631.73,110,137,7,43,2026-02-18,1,Yes
+CUST00270,50,Female,North Craigchester,Basic,1609.15,26,176,13,30,2026-01-02,9,Yes
+CUST00271,35,Female,West Brookeland,Basic,1403.68,11,40,6,46,2025-11-22,9,No
+CUST00272,57,Female,Lake Monicachester,Premium,1962.93,64,96,5,40,2026-02-02,1,No
+CUST00273,26,Male,South Michealtown,Premium,1803.05,53,94,11,28,2026-05-22,6,No
+CUST00274,47,Female,Port Jeremyberg,Basic,1021.25,109,39,11,29,2026-05-07,4,Yes
+CUST00275,64,Female,Gabrielleside,Standard,1983.48,71,35,11,48,2026-06-04,8,No
+CUST00276,71,Male,East Jeanetteburgh,Premium,128.63,16,145,20,59,2026-04-17,2,Yes
+CUST00277,43,Male,Stacybury,Premium,1410.92,10,69,1,7,2025-12-18,2,Yes
+CUST00278,58,Male,Port Edwardton,Standard,269.51,94,18,6,7,2026-02-19,8,No
+CUST00279,45,Male,Port Annettemouth,Premium,1767.64,62,33,2,10,2026-01-23,6,No
+CUST00280,68,Male,Lake Sophia,Premium,1607.38,69,36,7,28,2026-06-03,3,Yes
+CUST00281,29,Female,West David,Basic,918.32,54,191,10,35,2025-12-04,9,No
+CUST00282,50,Female,South Glen,Standard,400.13,108,40,10,44,2026-03-26,5,No
+CUST00283,49,Female,Tiffanyport,Premium,1850.58,79,11,9,31,2025-12-02,2,No
+CUST00284,28,Male,Whitneyberg,Standard,931.73,115,55,1,49,2026-03-06,10,No
+CUST00285,73,Male,Smithberg,Basic,940.35,101,13,0,11,2025-07-04,2,No
+CUST00286,63,Male,Lake Julia,Standard,1619.84,55,116,0,7,2026-02-24,9,No
+CUST00287,65,Female,Velasquezborough,Basic,936.54,92,82,15,39,2025-07-14,6,No
+CUST00288,25,Female,Lake Alexandrafurt,Standard,604.96,80,98,12,26,2026-01-21,9,No
+CUST00289,24,Female,Port Patriciastad,Standard,771.19,103,134,9,55,2025-10-31,7,Yes
+CUST00290,35,Male,West Shannon,Premium,861.15,59,30,20,57,2026-02-27,3,Yes
+CUST00291,72,Female,Osborneshire,Premium,803.22,62,22,5,59,2026-03-29,5,No
+CUST00292,27,Male,West Michael,Premium,160.64,112,172,15,42,2025-07-30,1,Yes
+CUST00293,74,Female,Port Susanbury,Premium,1182.6,105,103,7,6,2026-04-03,3,Yes
+CUST00294,59,Female,New Pamela,Premium,761.68,55,104,14,5,2026-02-12,4,Yes
+CUST00295,35,Female,Cainland,Standard,1064.66,96,193,15,42,2026-02-27,4,Yes
+CUST00296,37,Female,Port Nicholasport,Premium,935.16,53,87,19,48,2025-11-16,7,No
+CUST00297,39,Male,South Jenniferstad,Standard,1638.79,47,173,19,50,2025-12-01,5,Yes
+CUST00298,62,Male,Wrightstad,Standard,1344.19,3,113,12,35,2026-05-13,10,No
+CUST00299,57,Male,New Mitchell,Standard,1783.73,114,82,1,8,2026-02-23,3,No
+CUST00300,23,Male,Bradleyfort,Basic,1479.75,1,182,11,16,2025-12-29,9,No
+CUST00301,44,Female,Wrightside,Basic,1167.91,67,105,11,15,2026-04-04,1,Yes
+CUST00302,71,Female,Kathleenbury,Standard,1037.22,75,7,8,10,2025-09-16,4,Yes
+CUST00303,71,Female,Butlerland,Premium,21.62,3,97,13,40,2025-12-17,2,Yes
+CUST00304,69,Female,South Holly,Premium,280.09,57,174,17,16,2026-03-27,5,No
+CUST00305,52,Male,Lake Edward,Standard,1331.43,61,130,17,52,2026-05-10,10,Yes
+CUST00306,30,Male,West Molly,Standard,1864.46,58,3,12,55,2025-10-11,4,Yes
+CUST00307,23,Male,South Kathleenmouth,Basic,902.34,76,96,1,2,2026-04-26,3,Yes
+CUST00308,53,Female,New Kelly,Basic,1866.72,51,196,3,27,2025-08-28,5,No
+CUST00309,57,Male,Danielleland,Standard,1686.94,102,116,8,38,2026-05-17,1,Yes
+CUST00310,25,Male,North Emilyview,Premium,963.05,77,34,7,43,2025-12-24,4,No
+CUST00311,64,Female,Ryanside,Standard,399.87,63,153,5,50,2025-08-23,4,No
+CUST00312,31,Female,South Julie,Basic,1417.08,77,99,12,23,2026-05-04,2,Yes
+CUST00313,66,Male,Martinezbury,Standard,743.43,21,27,17,5,2025-10-14,6,No
+CUST00314,72,Female,Lake Stanleyhaven,Premium,1505.93,102,20,17,28,2025-10-21,1,Yes
+CUST00315,40,Male,Woodberg,Basic,457.63,86,145,2,32,2026-05-07,4,Yes
+CUST00316,60,Male,North Jonathanfurt,Premium,323.21,112,116,1,32,2025-11-24,6,No
+CUST00317,54,Female,West Chelseyview,Standard,1368.78,94,184,15,23,2025-07-13,4,Yes
+CUST00318,68,Male,Schmidtstad,Basic,1794.48,106,138,0,48,2025-09-02,5,No
+CUST00319,71,Female,Lake Craigview,Premium,371.98,20,109,6,35,2026-04-21,9,No
+CUST00320,18,Male,Kimberlyside,Basic,1062.13,33,31,2,9,2025-07-26,5,No
+CUST00321,46,Female,Phillipsmouth,Standard,1065.78,13,101,11,59,2025-09-10,2,No
+CUST00322,55,Male,South Wendy,Standard,1936.23,18,74,10,39,2025-11-08,8,No
+CUST00323,36,Female,Glennchester,Standard,435.88,71,71,3,23,2026-04-26,3,No
+CUST00324,39,Female,Lake Ronaldberg,Standard,1417.2,75,60,6,45,2025-09-24,4,No
+CUST00325,19,Female,Chaneyview,Standard,354.06,111,124,15,1,2025-12-14,2,Yes
+CUST00326,69,Female,Bookerstad,Standard,126.8,26,23,15,19,2025-11-30,7,No
+CUST00327,45,Male,North Michaelfort,Standard,934.06,25,182,12,28,2026-02-20,9,No
+CUST00328,19,Female,Lake Brandiville,Premium,1181.25,38,25,18,17,2025-07-25,5,No
+CUST00329,39,Female,Port Jaredhaven,Standard,740.48,39,88,14,7,2025-06-23,3,Yes
+CUST00330,47,Male,Bushview,Basic,1796.29,69,96,12,52,2025-10-04,7,No
+CUST00331,57,Male,East Danielburgh,Premium,903.82,86,163,15,22,2025-08-20,1,Yes
+CUST00332,52,Male,Stevensside,Basic,578.94,111,45,14,53,2026-02-09,10,No
+CUST00333,21,Female,Eddiestad,Basic,178.06,76,47,2,55,2026-04-24,3,Yes
+CUST00334,55,Female,South Garrett,Standard,302.52,93,191,8,27,2026-03-21,1,Yes
+CUST00335,46,Female,West Jennifer,Basic,682.12,2,54,18,15,2025-08-10,3,No
+CUST00336,68,Female,Natalieville,Premium,1661.26,99,195,13,33,2025-11-12,6,No
+CUST00337,37,Male,Port Kelly,Premium,291.96,27,5,16,39,2026-03-17,6,No
+CUST00338,58,Female,Lake Lesliechester,Premium,1446.03,48,84,8,38,2026-04-27,1,Yes
+CUST00339,32,Male,Johntown,Standard,1090.15,82,30,0,30,2025-10-02,3,Yes
+CUST00340,40,Male,Medinabury,Premium,785.71,20,8,2,12,2026-04-06,1,No
+CUST00341,48,Female,Alexandriaview,Basic,424.33,82,71,17,58,2025-10-05,1,Yes
+CUST00342,26,Female,New Laura,Premium,178.19,27,11,18,48,2025-10-30,4,No
+CUST00343,67,Female,South Zachary,Premium,1535.36,120,18,7,27,2026-03-19,4,No
+CUST00344,18,Female,Michaelfort,Standard,46.99,71,98,15,59,2025-11-16,1,Yes
+CUST00345,52,Female,Whiteshire,Basic,1966.24,120,159,11,4,2025-12-17,2,Yes
+CUST00346,64,Female,Bryanbury,Premium,747.76,73,24,5,35,2025-08-29,10,No
+CUST00347,42,Male,South Jennifer,Premium,1501.01,84,94,19,48,2025-09-26,5,No
+CUST00348,73,Male,Brianfurt,Premium,611.81,91,96,1,18,2026-01-08,3,Yes
+CUST00349,55,Male,East Laura,Basic,551.26,91,168,3,21,2025-12-14,9,Yes
+CUST00350,30,Male,Lopezton,Standard,1144.69,10,64,11,24,2026-04-27,8,Yes
+CUST00351,57,Male,Rebeccaburgh,Basic,1039.68,16,15,1,6,2025-08-29,6,No
+CUST00352,58,Female,Woodardshire,Standard,1351.42,89,142,0,56,2025-08-13,4,No
+CUST00353,24,Female,South Shawnfurt,Standard,185.76,16,191,5,60,2025-12-15,9,No
+CUST00354,41,Male,New Eugeneton,Premium,1142.89,63,95,11,20,2025-09-12,5,Yes
+CUST00355,30,Female,Guerraburgh,Premium,90.25,97,181,16,29,2026-06-11,4,Yes
+CUST00356,73,Male,Brianburgh,Basic,1220.83,51,52,12,10,2025-10-31,7,No
+CUST00357,30,Male,Ashleystad,Standard,1464.32,108,17,6,42,2025-11-26,2,Yes
+CUST00358,56,Female,New Annhaven,Basic,1261.08,42,197,10,32,2025-12-27,3,No
+CUST00359,64,Female,Lake Carlosstad,Basic,736.2,100,11,11,26,2026-06-14,9,No
+CUST00360,58,Female,West Samantha,Basic,819.88,82,101,0,5,2025-10-28,3,No
+CUST00361,45,Male,New Ariana,Standard,1394.36,12,79,9,38,2026-05-25,9,No
+CUST00362,26,Male,Stephenborough,Premium,1926.44,95,95,7,48,2025-11-12,10,No
+CUST00363,63,Female,Williamsontown,Standard,1280.17,16,127,20,58,2026-04-25,4,No
+CUST00364,24,Male,Washingtonport,Standard,1533.91,35,116,13,13,2025-11-07,7,Yes
+CUST00365,72,Male,Lake Tonyside,Standard,64.22,58,24,20,55,2025-08-02,5,Yes
+CUST00366,38,Male,Wilsonchester,Basic,497.83,88,135,17,37,2025-08-17,8,No
+CUST00367,54,Female,Tiffanybury,Premium,1293.85,90,1,20,17,2025-12-09,9,No
+CUST00368,42,Female,East Rubenstad,Standard,1135.02,35,160,7,9,2026-05-14,5,No
+CUST00369,47,Male,New Stephanieside,Basic,181.65,25,166,6,55,2025-12-22,8,No
+CUST00370,31,Male,Port Valerie,Basic,1296.46,111,169,10,21,2025-11-14,5,Yes
+CUST00371,74,Male,Port Jocelyn,Basic,194.96,50,46,20,58,2025-09-03,9,No
+CUST00372,72,Female,Brianbury,Basic,1768.72,92,79,19,4,2026-03-11,4,Yes
+CUST00373,22,Female,Mathewschester,Premium,1011.81,90,111,18,45,2025-09-10,9,No
+CUST00374,67,Male,East Lisafort,Standard,808.55,69,143,19,2,2025-09-11,5,No
+CUST00375,61,Male,Port Leahport,Premium,15.95,78,170,14,40,2025-11-20,1,No
+CUST00376,28,Male,East Amy,Premium,69.61,29,103,19,30,2025-11-06,1,No
+CUST00377,24,Male,Kimhaven,Basic,1601.54,10,184,11,4,2025-11-02,2,Yes
+CUST00378,73,Male,North Staceyport,Standard,1373.25,75,49,5,8,2025-10-09,8,No
+CUST00379,68,Female,New Geraldbury,Premium,607.48,46,68,1,39,2026-04-19,4,Yes
+CUST00380,38,Female,Jeffreyfurt,Premium,1102.54,23,121,0,56,2025-06-21,8,No
+CUST00381,36,Female,New Seanland,Standard,840.44,50,65,16,20,2025-12-26,2,No
+CUST00382,40,Female,New Curtis,Standard,1119.23,2,25,20,31,2025-08-10,8,No
+CUST00383,48,Male,Jeffport,Standard,1819.41,37,158,15,27,2026-01-31,8,No
+CUST00384,54,Female,New Krystal,Basic,428.44,2,112,16,16,2025-09-15,8,No
+CUST00385,38,Male,Ortizbury,Basic,1927.83,3,106,7,24,2025-11-02,2,No
+CUST00386,37,Female,Josephport,Basic,357.03,94,134,11,28,2025-11-04,1,Yes
+CUST00387,53,Female,West David,Basic,221.25,34,64,19,21,2025-10-15,1,Yes
+CUST00388,71,Male,Gillespieberg,Premium,341.48,89,143,18,50,2025-12-23,8,No
+CUST00389,46,Female,Port Tom,Premium,332.02,101,109,14,37,2025-08-22,7,No
+CUST00390,57,Female,Cruzfort,Standard,1272.16,64,8,19,20,2025-08-19,8,Yes
+CUST00391,36,Female,Lake Ninamouth,Standard,477.83,1,188,5,26,2025-07-25,7,No
+CUST00392,53,Female,West Sandra,Premium,1851.13,13,61,3,0,2025-10-07,2,No
+CUST00393,28,Female,North Jared,Standard,1990.83,15,197,17,27,2025-12-14,1,No
+CUST00394,67,Male,South Daniel,Standard,878.38,54,66,17,38,2025-07-20,2,Yes
+CUST00395,74,Male,South Brittany,Basic,1605.9,46,117,3,41,2025-11-12,7,Yes
+CUST00396,25,Male,Carrshire,Standard,1264.37,52,172,1,9,2025-09-06,6,No
+CUST00397,71,Female,North Kimberly,Basic,237.28,80,171,15,28,2026-04-07,8,No
+CUST00398,54,Male,Port Jenniferville,Basic,282.05,74,110,5,33,2026-05-30,10,No
+CUST00399,28,Male,West Lauratown,Premium,68.83,52,97,7,18,2026-02-25,9,No
+CUST00400,75,Male,North Antoniohaven,Premium,1467.9,67,185,2,35,2025-09-19,8,No
+CUST00401,57,Female,Jeffreyhaven,Premium,850.82,50,91,2,3,2026-02-03,2,Yes
+CUST00402,19,Female,East George,Premium,1332.54,23,61,6,10,2026-04-15,2,Yes
+CUST00403,61,Male,Brandyside,Premium,1023.08,34,8,2,24,2026-02-03,8,No
+CUST00404,49,Female,North Matthew,Premium,567.19,94,16,10,47,2026-05-20,8,No
+CUST00405,34,Male,North Brandonmouth,Basic,46.56,26,2,15,26,2025-12-12,9,No
+CUST00406,60,Male,Hessfort,Basic,89.89,24,69,12,16,2026-04-12,9,Yes
+CUST00407,39,Male,South Jessica,Basic,1766.21,39,15,20,35,2026-01-07,1,Yes
+CUST00408,62,Female,Hendricksmouth,Premium,1654.52,114,47,18,27,2026-05-01,6,No
+CUST00409,40,Female,East Randy,Standard,1404.31,19,104,6,58,2025-11-07,1,No
+CUST00410,59,Female,West Stephanieborough,Premium,355.7,29,102,13,12,2026-01-07,10,Yes
+CUST00411,44,Male,Port Nancy,Basic,377.23,29,117,9,5,2025-12-09,6,No
+CUST00412,49,Male,Barnesview,Premium,1150.9,99,32,1,31,2026-02-05,8,No
+CUST00413,19,Female,South Nicoleland,Premium,641.03,102,152,15,5,2025-11-25,7,No
+CUST00414,21,Male,Lake Melissa,Basic,899.7,50,19,16,44,2025-09-25,10,No
+CUST00415,37,Female,New Robertborough,Standard,917.5,24,200,14,22,2025-11-17,3,Yes
+CUST00416,68,Male,Michelleburgh,Basic,1762.85,78,1,15,58,2026-06-14,2,Yes
+CUST00417,41,Female,Duffyfort,Basic,62.63,96,180,7,53,2026-06-19,10,No
+CUST00418,18,Male,Jaredview,Premium,744.62,92,85,3,59,2025-09-04,5,No
+CUST00419,51,Male,Campbellhaven,Standard,1081.9,19,158,1,28,2025-12-25,7,No
+CUST00420,53,Female,Rogersbury,Premium,967.61,78,194,10,6,2025-10-19,5,Yes
+CUST00421,33,Female,Hicksfurt,Premium,1178.42,79,31,20,38,2025-10-05,8,No
+CUST00422,28,Female,North Natasha,Standard,1288.13,88,42,17,3,2025-10-27,1,No
+CUST00423,60,Female,Stevenfurt,Basic,347.08,67,118,11,58,2025-10-05,5,No
+CUST00424,35,Female,Walkermouth,Basic,1781.36,17,23,13,10,2025-10-15,6,Yes
+CUST00425,36,Male,Shepardchester,Standard,362.18,96,0,0,7,2026-01-23,2,Yes
+CUST00426,75,Male,Lake Wanda,Premium,1078.8,119,63,17,8,2026-03-18,10,Yes
+CUST00427,22,Male,Port Pamela,Basic,1266.75,88,166,20,35,2026-04-10,5,No
+CUST00428,27,Female,New Marisa,Premium,1147.62,98,8,20,21,2026-03-26,9,Yes
+CUST00429,67,Female,Browntown,Standard,1253.48,51,180,6,55,2025-06-24,3,No
+CUST00430,44,Male,Evanmouth,Standard,193.26,59,67,12,18,2025-12-04,6,No
+CUST00431,45,Male,Lake Marissahaven,Basic,1079.88,24,26,8,2,2025-08-16,9,No
+CUST00432,67,Male,East Josephport,Standard,1010.98,99,138,16,16,2026-02-19,5,No
+CUST00433,48,Female,New Sean,Premium,1536.72,96,152,9,3,2025-06-21,9,No
+CUST00434,46,Male,Johnchester,Premium,537.61,40,36,7,55,2025-08-17,5,No
+CUST00435,28,Female,Lake Joshuaburgh,Premium,601.6,85,24,3,39,2026-01-04,8,No
+CUST00436,37,Male,East Amy,Basic,555.88,115,53,7,30,2025-12-06,7,Yes
+CUST00437,26,Male,Lake Alexanderstad,Standard,395.48,67,61,7,49,2025-07-30,7,No
+CUST00438,43,Female,North Codyshire,Premium,37.95,82,198,0,34,2026-01-01,5,No
+CUST00439,63,Female,Manningburgh,Premium,449.81,29,179,1,9,2026-05-24,7,No
+CUST00440,53,Female,Wallaceborough,Premium,934.5,37,7,12,14,2026-01-12,2,Yes
+CUST00441,32,Male,Mullinsbury,Premium,1849.89,105,57,20,11,2025-10-18,8,No
+CUST00442,67,Male,Haileyburgh,Premium,922.35,82,115,18,23,2025-07-10,6,No
+CUST00443,43,Male,Pittmanstad,Premium,890.83,81,142,18,15,2025-11-09,6,Yes
+CUST00444,66,Male,South Kimberlystad,Standard,931.35,40,17,9,38,2026-04-10,6,No
+CUST00445,68,Female,South Cindy,Standard,547.05,50,149,0,14,2025-12-12,6,Yes
+CUST00446,38,Female,Carterport,Basic,1496.8,27,14,19,52,2025-09-17,10,Yes
+CUST00447,64,Male,Robertborough,Standard,1882.66,106,141,14,7,2025-06-29,10,No
+CUST00448,56,Male,Jasonfurt,Premium,1137.19,119,127,18,35,2025-07-19,5,No
+CUST00449,49,Male,West Ianborough,Premium,47.22,6,56,19,37,2026-04-05,10,No
+CUST00450,66,Male,Johnshire,Basic,1719.93,71,74,9,32,2025-08-02,6,No
+CUST00451,27,Female,Lake Melissa,Standard,12.12,95,131,11,3,2026-02-05,5,Yes
+CUST00452,58,Female,West Molly,Basic,1522.24,38,37,0,44,2026-01-21,2,Yes
+CUST00453,31,Female,New Michael,Basic,191.08,94,152,0,55,2025-09-12,6,No
+CUST00454,60,Female,Millerbury,Premium,1603.5,113,93,6,18,2026-03-25,4,Yes
+CUST00455,36,Female,Carolynmouth,Basic,1156.17,13,3,19,35,2026-05-25,1,No
+CUST00456,68,Male,Cainstad,Standard,1473.22,112,76,7,34,2025-10-07,5,No
+CUST00457,44,Male,Charlesmouth,Premium,1123.47,93,82,1,22,2025-08-15,4,No
+CUST00458,54,Male,Joshuatown,Premium,762.22,29,23,14,31,2026-04-08,10,No
+CUST00459,25,Male,East Jenniferview,Standard,347.16,111,57,12,22,2026-03-17,5,Yes
+CUST00460,33,Female,New Erica,Premium,507.73,109,59,3,28,2026-06-18,10,No
+CUST00461,59,Female,Williamsfurt,Standard,1956.66,54,196,19,19,2025-11-12,2,No
+CUST00462,51,Female,South Jeffrey,Premium,464.29,104,79,1,32,2025-10-24,8,Yes
+CUST00463,65,Male,Anthonyland,Basic,1162.68,92,67,15,20,2026-04-06,9,No
+CUST00464,70,Male,New Ashleyberg,Basic,1686.99,18,50,9,9,2025-10-12,4,No
+CUST00465,45,Male,Bowersstad,Premium,1772.78,37,113,13,27,2025-11-28,6,No
+CUST00466,55,Male,Port Catherine,Premium,648.14,109,133,14,7,2025-07-02,9,No
+CUST00467,61,Female,Mitchellmouth,Basic,313.91,105,41,10,14,2026-05-21,7,No
+CUST00468,44,Female,Wendyport,Basic,1743.9,100,95,14,41,2025-12-20,6,No
+CUST00469,51,Female,Johnnytown,Standard,1339.51,61,140,20,56,2025-07-01,1,Yes
+CUST00470,26,Male,Lake Sharon,Standard,1183.01,45,64,3,10,2026-02-07,8,No
+CUST00471,39,Male,New Dianahaven,Premium,287.06,111,186,11,13,2025-06-26,8,No
+CUST00472,27,Female,Port Patrickton,Premium,559.78,88,22,17,37,2025-11-30,5,No
+CUST00473,41,Male,Suzanneberg,Premium,112.7,93,199,12,31,2025-07-11,9,Yes
+CUST00474,57,Female,Bethburgh,Premium,1256.06,97,30,7,4,2026-01-15,10,No
+CUST00475,68,Female,West Joshua,Basic,530.79,105,69,17,18,2025-06-30,8,No
+CUST00476,49,Male,Lake Shannonville,Premium,1340.06,59,198,16,28,2026-02-26,2,No
+CUST00477,31,Female,South Daniel,Basic,277.43,73,87,4,6,2026-02-16,6,No
+CUST00478,72,Male,Lake Kevinfort,Basic,1033.44,70,127,1,8,2025-07-30,7,No
+CUST00479,21,Female,East Keithchester,Standard,443.45,38,27,10,42,2025-10-10,3,Yes
+CUST00480,28,Male,South Nicole,Standard,93.59,23,99,12,51,2025-08-24,10,Yes
+CUST00481,75,Female,Wayneborough,Basic,1498.18,107,147,0,0,2025-07-06,2,No
+CUST00482,53,Female,Sarahhaven,Basic,857.29,23,138,18,59,2026-04-25,2,Yes
+CUST00483,44,Male,Estradabury,Premium,1364.89,58,175,0,32,2026-05-10,8,No
+CUST00484,18,Male,Cynthiaton,Premium,1300.52,64,97,3,41,2026-05-28,6,No
+CUST00485,19,Male,New Joseph,Premium,1597.88,95,161,18,20,2026-06-01,3,No
+CUST00486,55,Male,Port Heidi,Standard,511.69,17,99,2,57,2025-10-10,2,Yes
+CUST00487,66,Female,Port Gregorychester,Standard,1896.63,6,199,14,7,2026-02-23,5,Yes
+CUST00488,56,Female,Smithburgh,Premium,730.51,50,38,15,27,2025-07-31,4,Yes
+CUST00489,72,Female,West Stephanie,Premium,1023.72,105,176,2,30,2025-08-11,9,Yes
+CUST00490,58,Female,Bryanside,Basic,1147.6,97,148,1,30,2025-07-21,2,No
+CUST00491,30,Male,Thomasland,Premium,746.4,34,110,4,48,2025-08-31,7,No
+CUST00492,59,Male,Port Edward,Basic,1538.37,56,117,12,59,2026-02-19,1,No
+CUST00493,72,Male,Chapmanfort,Basic,119.95,38,115,20,42,2026-06-13,4,Yes
+CUST00494,26,Male,Garrettstad,Basic,292.27,21,189,6,37,2026-06-19,6,No
+CUST00495,24,Female,Denisefurt,Premium,1671.79,32,149,10,44,2025-06-28,8,No
+CUST00496,53,Male,Elliottside,Standard,496.65,90,154,0,4,2025-11-29,4,Yes
+CUST00497,53,Female,East Scott,Basic,155.71,93,120,7,46,2026-02-26,8,Yes
+CUST00498,19,Female,Maryfort,Basic,1854.53,106,170,9,57,2025-10-30,1,Yes
+CUST00499,61,Male,Smithchester,Premium,1730.42,111,198,7,1,2025-10-11,10,Yes
+CUST00500,32,Female,Masonchester,Premium,853.77,26,48,20,20,2026-04-29,9,No
+CUST00501,50,Male,Port Dale,Basic,1824.72,83,106,17,2,2025-09-27,2,Yes
+CUST00502,63,Female,East Deborahmouth,Basic,1687.31,62,175,17,46,2025-07-26,1,Yes
+CUST00503,21,Male,Wellsmouth,Premium,1056.13,74,133,10,46,2025-09-27,1,Yes
+CUST00504,36,Female,Hendersonstad,Premium,1924.55,31,98,12,40,2025-08-27,6,Yes
+CUST00505,64,Female,Terriland,Basic,1557.21,32,82,1,44,2026-01-20,2,No
+CUST00506,26,Male,East Paul,Standard,343.83,20,92,0,5,2025-10-26,7,No
+CUST00507,55,Male,New Samanthaside,Standard,754.85,61,14,19,59,2026-02-24,8,No
+CUST00508,56,Female,New Theresa,Basic,542.22,102,39,5,12,2026-03-29,8,Yes
+CUST00509,24,Female,South Joshua,Basic,821.24,74,40,9,51,2026-06-03,4,No
+CUST00510,23,Female,Ashleyshire,Basic,755.96,53,110,8,18,2025-09-18,6,No
+CUST00511,29,Male,Lukestad,Basic,230.75,27,112,8,33,2026-02-25,6,Yes
+CUST00512,25,Male,Barbaraland,Basic,1555.17,44,99,5,36,2025-07-20,6,No
+CUST00513,22,Female,Dunlapchester,Premium,466.06,107,157,19,36,2025-06-30,1,Yes
+CUST00514,52,Female,East Richard,Basic,502.1,76,114,15,5,2026-02-26,4,Yes
+CUST00515,43,Female,Owenland,Basic,312.59,16,36,5,15,2025-08-08,3,No
+CUST00516,70,Male,West Jamesmouth,Standard,51.97,97,160,17,43,2026-04-14,9,No
+CUST00517,62,Male,Reedbury,Premium,1453.36,47,84,10,10,2026-05-24,2,No
+CUST00518,47,Male,Jessicatown,Premium,881.42,62,67,0,58,2025-10-18,10,No
+CUST00519,53,Male,Johnton,Basic,1410.23,113,118,15,20,2025-10-30,9,Yes
+CUST00520,39,Female,Danielfort,Basic,467.23,18,103,9,5,2025-09-24,5,No
+CUST00521,65,Male,Samuelmouth,Premium,1752.48,87,10,11,43,2026-02-05,1,Yes
+CUST00522,37,Male,Huffmanhaven,Premium,1330.64,72,119,19,37,2026-04-08,5,No
+CUST00523,37,Male,Smithbury,Premium,476.67,33,23,6,17,2026-03-22,10,Yes
+CUST00524,22,Male,Craigberg,Basic,1210.43,96,12,7,58,2026-04-12,5,No
+CUST00525,53,Female,Port Wayneborough,Premium,1103.68,74,48,12,17,2025-12-21,9,No
+CUST00526,59,Female,West James,Premium,316.72,91,1,10,54,2026-02-19,5,No
+CUST00527,39,Male,North Josephport,Standard,956.17,101,184,6,51,2025-06-23,6,Yes
+CUST00528,29,Female,Pearsonview,Basic,691.17,59,59,17,46,2026-05-02,4,Yes
+CUST00529,72,Male,West Victoria,Standard,1182.52,81,99,9,49,2025-11-21,3,No
+CUST00530,44,Male,Davidchester,Premium,1998.57,12,76,20,24,2026-05-22,7,No
+CUST00531,62,Male,Lake Dawnhaven,Standard,1941.51,78,123,15,27,2025-06-21,4,Yes
+CUST00532,68,Female,Lake Michaelborough,Basic,1680.92,112,25,18,2,2025-07-01,1,No
+CUST00533,29,Male,West Calebburgh,Premium,513.17,56,194,15,25,2026-04-26,8,No
+CUST00534,34,Male,West Williamland,Basic,1977.56,103,195,3,37,2025-11-02,8,No
+CUST00535,58,Male,Bonniestad,Premium,870.22,40,152,10,20,2025-07-04,6,No
+CUST00536,64,Female,Aguilarport,Premium,1464.64,87,172,10,26,2026-04-05,6,No
+CUST00537,24,Female,Port Stephanietown,Standard,813.57,60,143,3,17,2025-10-19,3,No
+CUST00538,28,Male,Brandishire,Premium,1989.35,85,136,7,46,2025-12-30,6,No
+CUST00539,52,Female,West Nicolechester,Standard,1016.42,114,177,2,32,2025-11-06,4,Yes
+CUST00540,72,Female,Laurenberg,Premium,1198.32,81,176,3,46,2025-12-16,5,No
+CUST00541,65,Male,Shepardland,Premium,1774.41,27,177,2,54,2026-02-28,6,No
+CUST00542,46,Female,South Nicholas,Standard,1310.73,94,137,5,29,2025-11-21,4,No
+CUST00543,39,Female,Matthewmouth,Premium,598.9,116,16,19,1,2026-05-07,3,No
+CUST00544,57,Female,East Sylviabury,Standard,424.41,75,78,16,3,2025-07-21,1,Yes
+CUST00545,70,Female,South Amandachester,Basic,199.97,51,78,4,42,2026-02-12,2,No
+CUST00546,43,Male,Vazquezview,Standard,620.65,78,130,14,0,2026-06-01,2,Yes
+CUST00547,68,Male,New Russell,Basic,511.17,38,52,4,27,2026-03-28,8,No
+CUST00548,38,Female,East Sergioshire,Basic,1091.75,56,52,15,48,2026-05-11,6,Yes
+CUST00549,59,Male,Jeanettemouth,Standard,1870.42,39,61,1,54,2026-06-02,9,No
+CUST00550,52,Female,North Kellyfurt,Standard,971.73,59,131,3,17,2025-06-25,2,No
+CUST00551,62,Female,Laurenchester,Basic,1808.81,97,23,17,28,2026-01-14,9,Yes
+CUST00552,41,Female,Bridgettown,Premium,649.97,114,61,12,24,2026-04-26,9,Yes
+CUST00553,25,Female,Lake Nicholasfurt,Standard,172.68,46,120,2,34,2026-05-27,10,No
+CUST00554,66,Male,Johnsonport,Standard,1999.82,101,122,13,36,2025-08-17,9,Yes
+CUST00555,72,Female,Dawnville,Premium,283.97,24,36,15,60,2025-07-18,2,No
+CUST00556,58,Female,Beardbury,Basic,1406.03,109,90,9,46,2026-01-30,7,No
+CUST00557,61,Female,Jaredburgh,Basic,1122.42,96,164,17,37,2026-01-22,1,Yes
+CUST00558,51,Female,West Amy,Standard,1837.27,107,88,11,40,2026-05-04,6,No
+CUST00559,67,Male,Deborahbury,Basic,1414.66,43,150,11,27,2025-10-10,7,No
+CUST00560,43,Male,South Carlosmouth,Premium,427.44,119,41,6,9,2026-04-04,7,No
+CUST00561,41,Male,South Chelseyshire,Standard,469.14,57,86,19,49,2026-02-20,10,Yes
+CUST00562,71,Male,South Alyssafort,Premium,1161.59,47,196,18,23,2026-03-30,5,No
+CUST00563,25,Male,Port Leslie,Premium,1434.68,2,15,8,21,2025-10-09,10,No
+CUST00564,70,Female,Parkershire,Standard,839.55,98,151,4,1,2025-07-09,10,No
+CUST00565,46,Male,Wrightview,Basic,1981.24,3,195,15,58,2025-09-07,8,No
+CUST00566,42,Female,South Alan,Premium,158.67,90,112,3,24,2026-01-23,3,No
+CUST00567,48,Female,New Tommy,Standard,1916.84,75,76,0,45,2025-07-16,4,No
+CUST00568,36,Male,Armstrongview,Standard,1123.68,62,188,13,50,2025-07-27,8,Yes
+CUST00569,23,Male,North Mark,Standard,458.21,108,96,1,39,2026-02-09,8,No
+CUST00570,46,Male,Brandonbury,Standard,1009.05,8,35,7,14,2025-08-19,2,No
+CUST00571,51,Male,Daniellechester,Premium,667.73,104,174,1,16,2025-08-06,5,Yes
+CUST00572,32,Female,Mitchellberg,Basic,660.68,72,49,6,1,2025-08-19,6,No
+CUST00573,72,Female,New Diane,Standard,230.22,74,31,16,60,2025-11-25,8,No
+CUST00574,35,Male,Espinozashire,Premium,53.32,30,150,10,18,2026-01-24,4,Yes
+CUST00575,62,Female,West Robert,Standard,1894.94,71,71,2,12,2026-03-19,10,No
+CUST00576,42,Female,Lake Amberburgh,Basic,1610.52,19,137,19,25,2026-01-14,3,No
+CUST00577,46,Male,Shelbyfort,Basic,1052.3,49,118,17,39,2026-01-28,6,Yes
+CUST00578,73,Male,Ronaldbury,Standard,612.81,84,94,3,40,2026-05-14,6,No
+CUST00579,19,Female,North Charlestown,Basic,1515.0,108,170,12,9,2025-09-30,4,Yes
+CUST00580,33,Female,West Daniel,Basic,1413.58,84,31,1,25,2025-08-21,8,No
+CUST00581,64,Female,East Ryan,Premium,1416.99,116,183,8,39,2026-02-14,9,No
+CUST00582,73,Male,Angelamouth,Premium,1386.08,110,163,1,32,2025-11-06,1,No
+CUST00583,47,Female,North Annette,Basic,487.52,81,26,3,28,2026-05-10,7,No
+CUST00584,70,Female,Floreshaven,Premium,1606.43,6,88,17,47,2025-10-11,6,No
+CUST00585,24,Male,Port Natalieview,Premium,394.51,59,184,15,23,2025-10-06,3,Yes
+CUST00586,58,Female,Hunterfort,Standard,1897.32,34,13,11,22,2025-09-12,10,No
+CUST00587,53,Female,Lake Christina,Basic,482.32,75,127,20,30,2025-11-01,5,No
+CUST00588,19,Male,Morrisonton,Standard,1951.35,76,28,0,27,2026-06-14,7,No
+CUST00589,45,Female,New Jean,Basic,1815.37,64,86,19,53,2026-03-29,3,No
+CUST00590,73,Female,Rebeccaville,Standard,206.42,48,1,12,44,2025-11-19,5,No
+CUST00591,52,Male,Harrischester,Premium,148.88,6,4,8,56,2026-02-23,1,No
+CUST00592,68,Female,South Lisa,Premium,558.41,61,146,12,14,2025-07-10,6,No
+CUST00593,36,Female,South Sandra,Premium,1838.0,79,157,15,4,2025-07-12,7,No
+CUST00594,46,Female,West Monicaland,Premium,690.08,100,148,10,25,2025-11-17,10,No
+CUST00595,40,Male,Joshuahaven,Premium,892.63,36,84,11,0,2026-02-05,10,No
+CUST00596,39,Male,Wallview,Basic,557.39,115,30,6,5,2026-06-20,4,No
+CUST00597,45,Female,New Sara,Standard,1119.68,25,23,11,5,2026-03-10,4,Yes
+CUST00598,62,Female,North Madelineside,Standard,1714.41,19,200,9,48,2026-02-12,8,Yes
+CUST00599,27,Male,East Sandrahaven,Standard,1427.4,120,144,1,18,2025-08-17,6,Yes
+CUST00600,72,Male,Coryport,Basic,530.62,77,109,1,47,2026-01-05,5,No
+CUST00601,37,Male,Philipstad,Standard,1378.27,66,15,8,46,2025-12-09,8,Yes
+CUST00602,56,Male,Annetown,Premium,1293.58,13,83,9,7,2025-08-03,9,Yes
+CUST00603,64,Male,North Christopherton,Basic,1396.08,3,90,2,27,2026-01-23,9,No
+CUST00604,48,Male,North Steven,Premium,725.69,63,27,12,49,2026-01-07,6,No
+CUST00605,58,Male,Port Marilyn,Standard,1299.7,120,199,8,41,2025-10-08,9,Yes
+CUST00606,75,Female,Robertmouth,Standard,631.66,10,71,20,9,2025-07-21,3,No
+CUST00607,60,Male,Lake Catherine,Premium,1647.64,112,100,19,20,2026-02-08,1,No
+CUST00608,60,Male,South Danielbury,Premium,1020.09,8,27,20,10,2026-04-24,1,Yes
+CUST00609,24,Female,Reedberg,Basic,145.28,53,47,18,59,2026-05-02,7,No
+CUST00610,48,Male,South David,Basic,263.19,40,152,9,8,2026-01-29,3,Yes
+CUST00611,22,Female,Lake Jodi,Standard,1044.74,5,168,13,34,2026-01-24,2,Yes
+CUST00612,70,Female,South Katherinefurt,Basic,488.46,97,14,7,55,2026-01-23,6,No
+CUST00613,51,Female,South Heatherborough,Basic,1541.55,31,78,7,48,2025-07-28,3,Yes
+CUST00614,71,Female,South Michaelville,Basic,677.88,61,17,15,42,2026-02-02,3,Yes
+CUST00615,59,Female,Port Garychester,Basic,1938.97,67,166,20,4,2025-07-19,4,Yes
+CUST00616,59,Male,Gonzalezland,Premium,1634.11,5,155,8,56,2025-12-30,7,No
+CUST00617,72,Female,Sophiatown,Premium,1065.95,20,28,17,26,2026-04-29,5,No
+CUST00618,68,Female,North Jamietown,Standard,1209.82,34,36,7,59,2026-02-20,7,No
+CUST00619,69,Female,East Madisonberg,Basic,778.56,76,170,14,26,2025-11-01,9,Yes
+CUST00620,53,Female,Ralphmouth,Premium,1917.67,120,99,10,34,2026-06-18,6,No
+CUST00621,36,Female,Belindaview,Premium,850.02,12,19,7,4,2025-07-23,8,No
+CUST00622,44,Female,Port Donnashire,Basic,1369.21,44,96,9,54,2025-11-09,9,Yes
+CUST00623,57,Male,Bethburgh,Standard,206.55,10,36,18,45,2025-11-19,7,No
+CUST00624,38,Male,Dennisside,Basic,457.81,26,117,14,9,2025-09-30,3,Yes
+CUST00625,45,Female,Georgechester,Basic,1014.94,21,90,1,0,2026-01-01,10,Yes
+CUST00626,69,Female,Carolborough,Standard,1427.54,88,40,0,21,2025-11-15,4,Yes
+CUST00627,19,Female,Jensenport,Premium,429.8,28,161,13,55,2025-11-28,7,No
+CUST00628,73,Male,East Stevenville,Premium,652.46,57,111,4,4,2026-01-17,8,Yes
+CUST00629,66,Female,Williamsbury,Basic,1901.49,58,32,13,3,2025-09-13,6,Yes
+CUST00630,40,Female,Perezside,Premium,104.08,108,18,19,46,2026-01-18,9,No
+CUST00631,40,Male,East Deniseport,Basic,508.57,16,172,8,31,2025-12-28,7,Yes
+CUST00632,42,Female,New Nicholasborough,Standard,1577.08,38,90,16,6,2026-01-12,1,Yes
+CUST00633,30,Male,Robertton,Standard,1682.58,5,74,18,6,2026-03-09,10,No
+CUST00634,31,Female,Danaville,Premium,1585.17,72,112,1,36,2025-07-23,6,No
+CUST00635,24,Female,Lisabury,Standard,1167.06,96,150,8,39,2025-12-30,7,No
+CUST00636,46,Male,Dylanmouth,Premium,1799.67,63,189,1,8,2025-07-14,1,Yes
+CUST00637,71,Male,South Devinville,Premium,743.32,98,86,18,9,2025-12-13,9,No
+CUST00638,53,Female,Sydneyburgh,Basic,285.22,55,187,3,21,2025-12-12,1,No
+CUST00639,52,Male,New Wendy,Standard,1053.86,65,130,3,22,2026-03-07,10,No
+CUST00640,20,Male,East Tanya,Premium,867.51,78,172,9,23,2025-08-28,9,Yes
+CUST00641,25,Male,Tuckermouth,Basic,1640.05,79,193,3,10,2026-05-10,5,No
+CUST00642,20,Female,Harriston,Premium,1763.34,24,186,5,10,2025-07-15,7,No
+CUST00643,62,Female,Lake Douglas,Basic,1317.17,70,59,14,56,2026-05-03,5,No
+CUST00644,66,Female,West Erinside,Premium,1796.77,61,173,3,26,2025-11-18,1,Yes
+CUST00645,74,Male,Johnport,Basic,1871.59,85,112,20,41,2026-03-05,3,Yes
+CUST00646,47,Female,Olsonfurt,Premium,547.82,96,103,10,31,2025-11-01,2,No
+CUST00647,75,Male,Port Jonview,Basic,1601.08,27,152,12,32,2026-03-08,6,No
+CUST00648,53,Male,Lake Susantown,Basic,1040.22,115,26,9,15,2026-05-08,4,Yes
+CUST00649,31,Male,Andreabury,Standard,1777.88,29,191,5,39,2025-10-24,6,No
+CUST00650,31,Female,Port Lucas,Premium,1545.08,45,191,3,37,2026-05-25,6,No
+CUST00651,45,Male,Terrymouth,Standard,224.96,53,98,6,56,2026-01-13,5,Yes
+CUST00652,28,Female,Lake Michelle,Premium,1740.6,41,90,16,45,2025-08-26,9,No
+CUST00653,69,Female,East Christineview,Premium,1071.0,72,191,19,5,2025-11-10,1,Yes
+CUST00654,66,Male,Andrewsfurt,Standard,24.88,56,28,11,29,2026-03-24,4,Yes
+CUST00655,50,Female,Gibsonstad,Basic,1792.8,70,0,13,30,2025-09-08,6,Yes
+CUST00656,53,Male,Jessicatown,Basic,1550.94,58,77,12,37,2025-06-21,8,Yes
+CUST00657,59,Male,Lake Kimberly,Standard,1227.0,86,107,20,1,2026-01-01,2,Yes
+CUST00658,36,Female,Parkshaven,Standard,1907.11,42,130,1,4,2026-01-23,5,No
+CUST00659,65,Female,Port Sean,Standard,866.42,83,199,14,2,2026-05-27,10,No
+CUST00660,63,Male,Hernandezville,Basic,108.31,84,154,7,32,2025-11-12,8,No
+CUST00661,47,Male,Angelamouth,Standard,1464.28,84,182,0,42,2026-04-28,4,No
+CUST00662,45,Female,West Johnbury,Basic,824.96,4,72,10,37,2026-04-21,7,No
+CUST00663,60,Male,Port Martin,Standard,1603.31,9,200,2,13,2026-04-01,3,Yes
+CUST00664,36,Male,New Stephanie,Basic,1086.57,84,132,9,55,2026-02-27,8,Yes
+CUST00665,49,Male,Hughesview,Standard,1424.89,36,154,17,1,2026-05-01,1,Yes
+CUST00666,65,Male,East Andrew,Premium,149.55,98,169,9,14,2026-06-15,1,No
+CUST00667,43,Male,Wilsonton,Basic,1832.72,38,165,6,48,2025-08-31,6,No
+CUST00668,70,Male,East Michele,Standard,824.09,34,157,13,51,2026-06-12,4,Yes
+CUST00669,51,Male,Port Williamland,Basic,1916.4,58,126,20,50,2025-11-30,9,Yes
+CUST00670,72,Female,New Melissafort,Basic,937.41,44,24,1,33,2026-03-23,8,No
+CUST00671,54,Male,West Charles,Premium,1346.59,72,47,19,24,2025-08-15,4,Yes
+CUST00672,18,Male,West Jasonside,Basic,1676.74,83,34,4,11,2025-10-23,6,No
+CUST00673,41,Female,East Lisa,Basic,1040.27,65,122,10,16,2025-11-07,6,No
+CUST00674,50,Male,New Johnfurt,Premium,509.21,87,195,11,55,2025-09-15,10,No
+CUST00675,71,Male,Taylorport,Basic,701.05,96,98,2,7,2025-11-24,1,Yes
+CUST00676,54,Female,Juanstad,Basic,574.22,11,188,11,41,2026-05-20,10,No
+CUST00677,56,Female,Orozcoport,Standard,1425.78,47,44,20,54,2026-03-18,10,No
+CUST00678,24,Female,Aprilland,Basic,1161.73,116,197,20,35,2026-04-17,1,Yes
+CUST00679,19,Female,Kennethburgh,Premium,227.82,43,196,12,54,2026-05-13,6,Yes
+CUST00680,21,Male,North Derrickchester,Standard,414.2,86,125,12,58,2025-12-26,9,Yes
+CUST00681,24,Male,Sherrymouth,Premium,606.11,93,187,8,57,2026-02-08,2,No
+CUST00682,28,Male,East Robertoport,Standard,1280.99,84,115,5,34,2026-02-02,8,No
+CUST00683,32,Male,Port Ericside,Standard,1957.27,88,96,15,51,2025-10-17,8,No
+CUST00684,64,Male,Saraton,Basic,100.85,99,16,15,24,2025-12-20,2,No
+CUST00685,69,Female,East Coreymouth,Standard,1020.67,68,84,15,41,2025-06-30,6,No
+CUST00686,63,Male,Thorntonport,Standard,723.27,80,90,8,33,2025-08-31,7,No
+CUST00687,25,Male,Lemouth,Basic,1452.04,17,56,19,5,2025-12-04,6,No
+CUST00688,55,Female,Mariaview,Basic,638.49,107,158,9,42,2025-06-22,2,No
+CUST00689,59,Female,Shannonville,Premium,477.3,110,164,14,55,2025-10-29,10,No
+CUST00690,29,Female,Robertside,Premium,1509.08,120,178,2,22,2026-05-02,4,Yes
+CUST00691,52,Male,North Sharon,Basic,858.67,72,60,18,24,2025-06-23,7,Yes
+CUST00692,42,Female,Katherinestad,Basic,1953.58,11,9,3,8,2025-07-27,7,No
+CUST00693,45,Female,Lake Larry,Basic,1912.05,44,127,5,43,2025-07-31,3,Yes
+CUST00694,30,Female,East Daniel,Premium,837.29,63,151,17,56,2025-10-03,9,No
+CUST00695,75,Female,West Martinmouth,Standard,787.61,57,114,5,48,2026-05-18,8,No
+CUST00696,32,Female,Garrettmouth,Standard,1769.32,7,82,14,28,2026-04-18,2,Yes
+CUST00697,25,Male,New Kurtport,Standard,664.75,54,107,1,22,2025-10-25,5,No
+CUST00698,68,Male,Cynthiaside,Standard,1008.77,20,180,4,23,2025-11-12,6,Yes
+CUST00699,72,Male,Justinborough,Standard,440.29,2,87,19,56,2026-01-16,7,No
+CUST00700,66,Male,Port Susan,Premium,685.05,81,137,20,58,2025-09-27,1,Yes
+CUST00701,40,Male,Michaelville,Premium,1301.84,71,161,8,47,2026-04-10,6,No
+CUST00702,25,Male,New James,Basic,1249.05,75,59,16,51,2026-02-12,5,No
+CUST00703,34,Male,Lawsonmouth,Standard,396.43,55,65,12,10,2025-08-02,7,No
+CUST00704,36,Male,Port David,Premium,1508.12,110,6,6,13,2026-01-24,3,No
+CUST00705,53,Female,Juliaborough,Standard,1121.54,107,80,5,21,2026-02-19,2,No
+CUST00706,21,Female,West Markburgh,Premium,14.31,40,41,2,28,2026-05-24,6,No
+CUST00707,46,Male,East Ryanchester,Standard,56.54,11,103,13,48,2025-09-01,8,No
+CUST00708,69,Female,Robertfurt,Standard,550.73,10,121,19,12,2025-09-10,2,Yes
+CUST00709,41,Male,New Shawn,Standard,445.04,54,139,9,32,2025-09-12,7,No
+CUST00710,55,Female,Catherineland,Basic,706.34,2,45,4,10,2025-09-22,2,No
+CUST00711,29,Female,Lake Chase,Standard,372.05,89,106,17,6,2025-07-27,3,Yes
+CUST00712,42,Female,Brownshire,Standard,1371.08,57,29,17,46,2025-06-26,3,Yes
+CUST00713,74,Male,Rodriguezchester,Standard,1093.68,33,16,2,43,2026-03-12,9,No
+CUST00714,35,Male,South Josephbury,Basic,1767.02,85,60,10,21,2025-09-09,1,No
+CUST00715,20,Female,East Saratown,Basic,597.1,117,154,7,21,2025-08-24,8,No
+CUST00716,72,Male,Jenniferport,Premium,1539.91,64,155,18,40,2026-04-29,7,No
+CUST00717,24,Female,Kristamouth,Basic,1311.38,103,183,0,22,2025-12-06,4,No
+CUST00718,46,Female,Leslieberg,Basic,1675.35,106,31,7,59,2025-07-27,10,No
+CUST00719,21,Male,Petersonton,Standard,1453.71,103,64,6,25,2026-04-21,3,No
+CUST00720,57,Male,Clarkefort,Premium,394.62,39,78,13,13,2025-08-01,6,No
+CUST00721,52,Male,Summermouth,Basic,89.01,69,1,15,28,2025-10-12,7,No
+CUST00722,60,Male,Kristenfurt,Standard,196.78,110,45,13,12,2026-01-28,6,No
+CUST00723,47,Male,Loriborough,Standard,1823.35,95,162,1,16,2025-11-14,4,No
+CUST00724,61,Male,Carolport,Standard,1536.97,53,180,8,1,2026-05-27,9,Yes
+CUST00725,75,Female,West Williamborough,Standard,751.91,39,41,20,54,2025-12-02,7,No
+CUST00726,20,Male,Brittanybury,Premium,126.02,2,12,17,54,2025-07-21,10,No
+CUST00727,74,Female,East Mark,Standard,574.73,29,145,12,11,2026-02-20,1,Yes
+CUST00728,35,Female,Michaelton,Premium,1456.44,51,151,18,58,2025-09-20,1,No
+CUST00729,60,Male,Andreatown,Premium,1831.16,67,54,0,48,2025-10-16,8,Yes
+CUST00730,22,Male,Port Heatherchester,Standard,1725.25,39,125,0,20,2025-12-01,4,Yes
+CUST00731,32,Male,North Josephborough,Standard,762.98,6,56,0,50,2026-05-24,3,Yes
+CUST00732,36,Female,Port Kurtshire,Standard,159.74,25,39,10,32,2026-04-02,3,No
+CUST00733,25,Male,Danielsberg,Premium,851.32,109,163,4,16,2026-03-17,5,Yes
+CUST00734,65,Female,Andreborough,Basic,594.27,19,102,10,25,2025-09-30,4,Yes
+CUST00735,32,Male,North Christina,Basic,737.34,32,3,0,55,2025-10-22,1,No
+CUST00736,63,Female,New Robert,Premium,1658.28,106,94,15,15,2026-05-27,10,No
+CUST00737,63,Female,North Travis,Basic,528.71,111,67,12,37,2025-12-19,10,Yes
+CUST00738,26,Male,Jonesstad,Standard,1734.32,116,168,7,29,2025-12-29,7,No
+CUST00739,30,Female,South Deborahmouth,Basic,1702.63,17,80,13,53,2026-03-08,9,Yes
+CUST00740,22,Female,Port Alex,Basic,1133.53,99,124,1,39,2025-07-25,5,No
+CUST00741,37,Female,Curtistown,Basic,899.68,120,42,7,6,2025-10-18,2,No
+CUST00742,53,Male,Johnnychester,Standard,1887.71,71,101,11,23,2026-05-27,10,No
+CUST00743,69,Male,Reyesburgh,Premium,536.46,33,60,5,41,2026-01-09,10,No
+CUST00744,18,Female,North Jacob,Premium,1560.14,23,4,14,38,2025-07-05,5,Yes
+CUST00745,40,Female,Roseshire,Standard,1465.59,36,22,0,16,2025-10-18,2,Yes
+CUST00746,53,Female,Jamiechester,Basic,1380.27,93,151,10,57,2025-08-15,6,No
+CUST00747,37,Male,Wilsontown,Standard,1451.5,102,45,7,48,2026-03-15,1,No
+CUST00748,48,Male,Lake Lisa,Basic,97.76,42,147,12,31,2026-06-04,9,Yes
+CUST00749,27,Female,Arnoldport,Basic,1102.71,22,156,10,43,2026-04-27,9,No
+CUST00750,35,Male,Lake Amber,Standard,1611.74,31,162,12,18,2026-01-30,5,No
+CUST00751,39,Male,East Lindsey,Premium,1766.6,67,1,0,40,2025-09-21,2,No
+CUST00752,22,Female,Chavezbury,Premium,383.74,42,198,6,53,2025-09-02,3,No
+CUST00753,73,Male,New Gregoryburgh,Basic,1096.05,119,151,2,43,2026-01-15,4,No
+CUST00754,19,Female,North Robyn,Standard,1671.84,20,124,7,42,2025-08-21,6,No
+CUST00755,27,Female,Jaimefort,Premium,1767.86,24,109,6,40,2026-06-19,8,No
+CUST00756,50,Male,Riveramouth,Standard,982.78,33,130,20,3,2026-03-15,9,No
+CUST00757,23,Female,Phyllistown,Standard,1042.55,7,3,3,28,2025-07-14,5,No
+CUST00758,61,Male,West Jared,Basic,561.36,49,171,4,26,2025-08-29,3,No
+CUST00759,74,Female,Port Jessetown,Basic,818.11,67,43,20,22,2026-06-12,1,Yes
+CUST00760,71,Male,Gabrielleshire,Premium,313.11,8,52,6,7,2025-07-10,6,No
+CUST00761,26,Male,Smithtown,Basic,1084.81,32,11,15,44,2025-11-28,10,No
+CUST00762,55,Male,Richardton,Standard,1204.75,96,95,16,32,2026-06-07,5,No
+CUST00763,44,Female,Martinshire,Premium,718.05,7,13,16,37,2025-09-09,10,No
+CUST00764,49,Male,Colleenfurt,Standard,25.78,67,93,9,18,2025-10-12,1,Yes
+CUST00765,22,Female,West Ashley,Standard,1626.89,63,197,11,33,2026-01-02,4,No
+CUST00766,61,Female,Huntertown,Standard,1878.64,84,186,3,15,2026-03-18,3,Yes
+CUST00767,21,Female,Stephensborough,Premium,603.17,77,14,9,32,2026-04-14,6,No
+CUST00768,43,Female,Watsonburgh,Basic,1243.29,114,152,13,51,2025-12-30,6,No
+CUST00769,69,Female,Brewerville,Basic,703.79,72,32,14,23,2026-03-23,9,No
+CUST00770,36,Male,North Eric,Standard,1142.82,93,55,1,48,2025-12-17,6,Yes
+CUST00771,73,Male,Blankenshiphaven,Premium,1127.89,78,140,1,18,2025-12-16,5,Yes
+CUST00772,54,Male,Timothyview,Basic,1232.33,54,157,5,3,2025-08-29,5,No
+CUST00773,31,Female,Pittmanshire,Basic,1402.49,75,54,7,20,2025-06-30,10,No
+CUST00774,45,Female,South Toni,Premium,1195.24,30,100,17,31,2026-04-11,6,No
+CUST00775,26,Male,South Alyssa,Basic,1564.6,82,67,5,23,2026-06-16,2,Yes
+CUST00776,67,Male,Moniqueville,Premium,580.76,49,83,19,50,2025-10-27,4,Yes
+CUST00777,40,Male,Port Troymouth,Premium,1524.77,108,200,10,14,2025-06-26,4,No
+CUST00778,57,Male,South Lisamouth,Basic,1891.18,106,166,13,26,2025-09-24,9,No
+CUST00779,50,Female,Tylerview,Premium,1049.86,75,98,19,21,2026-06-15,6,No
+CUST00780,34,Female,South Zacharyfurt,Premium,1932.8,38,176,0,1,2025-08-14,5,No
+CUST00781,46,Male,Calderonville,Basic,1375.39,6,139,7,48,2025-12-08,1,No
+CUST00782,51,Female,Vazquezchester,Premium,1643.44,101,145,12,54,2025-07-16,8,No
+CUST00783,70,Female,East Davidburgh,Premium,1761.98,6,61,16,46,2025-11-03,6,Yes
+CUST00784,56,Male,South Katherine,Standard,1055.81,26,30,20,56,2026-06-04,6,Yes
+CUST00785,52,Female,Michaelhaven,Premium,1863.79,9,30,4,22,2025-08-13,1,No
+CUST00786,61,Male,Devintown,Basic,151.91,62,88,13,43,2026-02-19,2,Yes
+CUST00787,34,Male,West Jeffrey,Premium,858.39,61,98,10,20,2026-06-13,8,No
+CUST00788,66,Male,South William,Standard,450.6,48,43,8,49,2026-04-16,8,No
+CUST00789,24,Male,Lake Morgan,Basic,1889.53,11,16,0,27,2025-09-27,1,Yes
+CUST00790,25,Female,Austinfort,Standard,485.97,46,41,16,2,2025-08-15,5,No
+CUST00791,67,Female,New Danielside,Basic,1428.17,33,38,8,8,2025-12-06,7,No
+CUST00792,34,Female,Lake Eric,Basic,686.85,108,136,7,24,2025-12-08,7,No
+CUST00793,52,Female,Garciaberg,Premium,1190.9,100,192,8,31,2026-04-08,8,No
+CUST00794,32,Male,Stephenside,Premium,1462.57,72,8,17,7,2025-07-16,5,No
+CUST00795,59,Male,New Davidburgh,Basic,1012.6,44,48,9,29,2026-02-17,9,No
+CUST00796,66,Female,Vargashaven,Basic,1240.64,74,98,0,22,2025-09-07,4,Yes
+CUST00797,25,Female,Christianborough,Premium,61.91,38,172,4,55,2025-09-27,10,No
+CUST00798,25,Male,Maynardborough,Basic,1616.95,22,15,10,38,2025-07-20,10,No
+CUST00799,51,Female,West Jason,Basic,446.7,119,110,8,58,2026-01-18,2,No
+CUST00800,53,Female,Joechester,Premium,486.34,88,193,0,40,2025-07-25,5,No
+CUST00801,52,Female,Hoodfort,Premium,1612.92,41,45,6,4,2025-11-16,5,No
+CUST00802,75,Female,Smithville,Basic,402.44,59,53,18,4,2026-06-02,3,Yes
+CUST00803,43,Female,Rowemouth,Basic,537.42,39,157,20,10,2026-06-17,5,Yes
+CUST00804,63,Male,West Denise,Premium,1180.45,109,101,3,50,2025-11-12,1,Yes
+CUST00805,75,Male,West Thomasview,Standard,1647.16,11,20,8,57,2025-07-16,1,Yes
+CUST00806,41,Male,South Bryanchester,Standard,1362.28,31,99,20,18,2026-02-04,10,Yes
+CUST00807,36,Female,South Gregorychester,Standard,1716.73,44,171,8,27,2025-09-14,10,No
+CUST00808,39,Male,West Brooke,Standard,591.6,32,89,18,49,2026-03-21,4,Yes
+CUST00809,65,Male,North Johnshire,Standard,1394.37,95,166,16,57,2025-11-02,3,Yes
+CUST00810,66,Male,Longside,Premium,1813.08,96,131,6,11,2026-01-16,10,No
+CUST00811,34,Male,Smithmouth,Basic,781.15,56,132,5,15,2025-07-02,4,Yes
+CUST00812,21,Female,Nicholashaven,Basic,529.16,20,109,10,11,2026-04-14,10,No
+CUST00813,61,Female,Lake Andreamouth,Basic,39.67,104,168,17,32,2026-02-01,5,No
+CUST00814,23,Male,Tylerport,Premium,1552.01,80,72,7,26,2025-07-25,1,Yes
+CUST00815,22,Male,Hernandezhaven,Basic,323.33,99,110,1,18,2025-07-22,3,No
+CUST00816,19,Male,Marvinhaven,Premium,496.51,88,53,3,21,2025-09-27,7,No
+CUST00817,31,Female,Port Aliciahaven,Standard,409.48,97,162,11,35,2026-03-12,10,No
+CUST00818,54,Female,Lake Kelly,Basic,1104.33,119,194,9,55,2025-08-09,4,No
+CUST00819,58,Male,West Janice,Standard,1066.25,83,54,10,31,2025-10-16,3,Yes
+CUST00820,62,Female,North Angela,Basic,1004.8,43,160,19,38,2025-10-22,1,Yes
+CUST00821,59,Female,Callahanfurt,Standard,1803.52,115,178,16,9,2026-03-04,8,No
+CUST00822,31,Male,East Kenneth,Premium,1094.85,63,143,1,47,2026-01-20,4,Yes
+CUST00823,28,Female,South William,Basic,1691.97,118,37,17,39,2026-03-06,4,Yes
+CUST00824,39,Female,Ericborough,Basic,1868.71,43,184,11,27,2025-09-04,9,No
+CUST00825,70,Male,Kingstad,Standard,915.69,37,142,6,6,2025-09-25,5,No
+CUST00826,61,Male,West William,Premium,1715.79,99,130,11,54,2026-03-25,9,No
+CUST00827,72,Female,Vanessaside,Standard,1101.3,85,159,10,42,2025-08-14,9,Yes
+CUST00828,33,Male,Griffithshire,Standard,101.19,68,44,5,2,2025-12-17,1,Yes
+CUST00829,68,Male,East Maryfort,Premium,64.66,104,151,18,24,2026-01-21,5,No
+CUST00830,53,Female,West Brian,Basic,1855.8,116,164,3,33,2026-02-23,4,Yes
+CUST00831,46,Female,South Amy,Basic,1457.42,119,113,13,29,2026-01-25,9,No
+CUST00832,58,Male,Josephview,Premium,1993.25,35,115,18,38,2026-05-12,7,Yes
+CUST00833,30,Male,East Andrew,Premium,1135.92,52,199,3,27,2026-02-26,1,No
+CUST00834,29,Male,Georgebury,Premium,1734.64,118,142,7,2,2026-02-06,7,No
+CUST00835,48,Male,North Charles,Premium,665.47,106,170,8,12,2025-10-11,3,Yes
+CUST00836,50,Female,Patrickstad,Premium,395.34,53,35,18,25,2026-01-31,2,Yes
+CUST00837,45,Male,Lake Derek,Standard,1927.03,54,175,1,1,2026-05-31,3,Yes
+CUST00838,53,Female,Scottside,Premium,519.83,91,163,14,52,2026-03-07,2,No
+CUST00839,22,Female,Phillipsville,Premium,653.54,96,139,13,43,2026-02-20,5,Yes
+CUST00840,38,Female,Port Teresashire,Standard,466.31,11,143,13,6,2026-04-24,10,Yes
+CUST00841,64,Female,Weberview,Premium,1864.97,35,121,9,36,2026-01-27,4,No
+CUST00842,24,Female,Mackenziefort,Basic,1397.51,77,159,5,45,2025-08-09,7,Yes
+CUST00843,27,Female,Juantown,Premium,1149.92,81,57,3,33,2025-10-15,1,Yes
+CUST00844,43,Male,West Joshua,Premium,1784.93,102,23,16,46,2025-08-17,1,Yes
+CUST00845,72,Female,Oliverburgh,Basic,461.83,101,67,1,40,2025-10-06,1,Yes
+CUST00846,23,Male,West Jasonland,Premium,1141.0,35,20,7,49,2025-09-06,5,No
+CUST00847,39,Male,Ronaldton,Standard,66.86,97,44,14,5,2025-10-12,2,No
+CUST00848,40,Female,South Lauren,Premium,1865.8,118,183,7,4,2025-11-25,1,No
+CUST00849,55,Female,New Jonathanfurt,Premium,168.49,69,26,10,35,2025-10-29,2,No
+CUST00850,37,Female,New Lisa,Standard,1433.35,25,27,6,0,2026-03-05,2,Yes
+CUST00851,50,Female,South Elizabethfurt,Standard,210.45,47,124,1,39,2025-07-25,5,No
+CUST00852,57,Male,South Kendra,Premium,731.89,53,193,17,2,2026-04-10,7,Yes
+CUST00853,18,Male,East Davidfort,Premium,177.15,75,11,8,33,2026-04-04,6,No
+CUST00854,40,Male,Lake Shannontown,Standard,514.42,1,82,15,45,2026-06-19,3,No
+CUST00855,20,Male,West Billyshire,Basic,1457.99,57,123,7,56,2026-04-21,8,Yes
+CUST00856,54,Male,Lake Annaport,Basic,1206.58,80,74,14,9,2025-08-04,4,No
+CUST00857,64,Female,North Christineburgh,Premium,1796.91,94,123,2,32,2025-11-18,10,No
+CUST00858,56,Male,North Curtis,Standard,1460.07,67,168,20,11,2025-07-30,10,No
+CUST00859,39,Female,New Dianaville,Basic,352.23,38,143,1,7,2025-08-12,9,No
+CUST00860,18,Female,New Samantha,Standard,1308.91,72,163,12,21,2025-11-16,3,Yes
+CUST00861,61,Female,New Andrewtown,Standard,742.85,106,84,6,55,2026-02-17,8,No
+CUST00862,24,Female,Wilsonburgh,Standard,240.85,16,74,17,59,2025-12-25,8,No
+CUST00863,29,Male,East Victoriafort,Basic,585.11,36,118,3,5,2026-06-03,6,Yes
+CUST00864,39,Female,Smithmouth,Standard,199.05,119,59,18,5,2025-09-07,1,Yes
+CUST00865,65,Male,East Michael,Premium,871.35,59,170,17,50,2025-09-14,8,No
+CUST00866,48,Female,Port Marilyn,Basic,1991.97,12,114,12,1,2025-08-07,4,Yes
+CUST00867,33,Female,Ramirezland,Premium,830.32,107,126,13,46,2025-12-15,3,Yes
+CUST00868,18,Male,Chapmanberg,Standard,750.06,10,5,3,30,2026-03-20,9,Yes
+CUST00869,57,Female,Lake Colleen,Premium,1057.07,52,55,13,20,2026-05-28,5,No
+CUST00870,48,Female,Lake Brandifurt,Standard,1411.03,95,171,16,45,2025-11-16,7,Yes
+CUST00871,49,Female,Sarahfort,Premium,885.01,4,89,13,53,2025-10-19,10,Yes
+CUST00872,41,Female,Mcdowellhaven,Basic,48.81,42,122,20,27,2025-09-10,5,No
+CUST00873,36,Female,Matastad,Basic,17.44,11,183,18,58,2025-12-24,9,No
+CUST00874,61,Female,Wayneborough,Basic,1986.81,51,50,11,33,2025-10-14,1,Yes
+CUST00875,47,Male,Salazarfort,Premium,31.25,88,34,20,29,2025-08-27,7,Yes
+CUST00876,45,Male,Brennanton,Premium,1811.73,52,103,11,42,2026-01-24,2,No
+CUST00877,37,Male,Floydhaven,Standard,1498.25,116,151,12,55,2026-04-06,2,Yes
+CUST00878,43,Male,New Chad,Basic,233.29,107,51,8,48,2025-08-24,2,Yes
+CUST00879,46,Female,Goodwinshire,Basic,1767.91,25,76,2,15,2025-09-17,2,Yes
+CUST00880,34,Male,North Amanda,Basic,1485.62,14,52,12,19,2026-03-14,8,Yes
+CUST00881,33,Male,Lake Erinfort,Basic,956.1,64,126,5,58,2025-09-02,8,No
+CUST00882,40,Male,Watsonside,Standard,646.05,28,86,3,45,2026-03-05,3,Yes
+CUST00883,37,Male,Lake Raymondshire,Basic,979.18,67,124,1,35,2026-05-03,7,No
+CUST00884,62,Male,Samuelbury,Premium,671.12,50,172,16,50,2026-04-20,8,No
+CUST00885,46,Male,Robertsberg,Standard,426.5,53,41,20,1,2026-06-04,1,Yes
+CUST00886,58,Female,West Pamela,Standard,1695.01,31,129,5,32,2025-12-17,7,No
+CUST00887,41,Male,Joshuatown,Basic,508.72,112,124,8,32,2025-08-01,4,Yes
+CUST00888,64,Female,Kellyborough,Premium,25.5,71,42,2,41,2025-11-26,8,No
+CUST00889,64,Female,Leeview,Basic,1103.43,32,16,1,52,2025-10-23,4,Yes
+CUST00890,51,Female,Dawnview,Premium,136.19,105,30,13,5,2025-07-31,7,No
+CUST00891,26,Female,Karenfort,Standard,1350.33,80,74,13,3,2026-01-01,8,Yes
+CUST00892,33,Male,Harveyhaven,Standard,256.46,92,2,20,25,2026-01-11,8,No
+CUST00893,62,Male,Nathanhaven,Premium,498.22,109,10,19,28,2025-12-20,9,No
+CUST00894,72,Male,Jonathanmouth,Standard,1475.58,14,26,5,20,2025-07-15,8,No
+CUST00895,57,Female,North Joanna,Premium,1378.17,36,26,16,57,2026-03-15,3,Yes
+CUST00896,21,Female,Lake Marcusborough,Standard,448.13,111,50,5,16,2026-03-30,10,Yes
+CUST00897,68,Female,West Felicia,Standard,1310.37,33,184,19,41,2026-03-05,6,No
+CUST00898,41,Male,Lunaberg,Premium,1931.79,74,42,4,59,2026-03-28,2,No
+CUST00899,38,Male,Shannonstad,Premium,214.08,83,165,20,51,2025-07-17,4,Yes
+CUST00900,48,Female,South Dianemouth,Basic,618.13,114,26,4,16,2026-03-31,1,Yes
+CUST00901,51,Female,Briantown,Premium,123.03,91,51,8,31,2025-09-03,3,Yes
+CUST00902,62,Female,North Charlesstad,Standard,139.26,33,117,3,12,2026-01-09,2,Yes
+CUST00903,63,Male,North Anneberg,Basic,1179.45,93,69,1,10,2025-08-20,8,No
+CUST00904,50,Female,New Shannonbury,Premium,1148.23,58,128,11,8,2025-12-26,8,No
+CUST00905,60,Female,Lake Crystal,Basic,570.96,14,84,8,47,2025-12-26,1,No
+CUST00906,36,Female,Burtonmouth,Premium,137.96,98,153,19,25,2026-04-26,9,No
+CUST00907,68,Female,Jeffreyton,Basic,56.53,3,156,4,50,2025-07-30,10,No
+CUST00908,18,Male,East Erichaven,Standard,1932.97,17,47,16,53,2026-06-21,10,No
+CUST00909,49,Female,Lake Lisa,Basic,349.86,43,98,8,30,2026-02-04,6,No
+CUST00910,26,Female,North Lindaside,Standard,715.63,87,140,0,36,2026-04-07,2,Yes
+CUST00911,43,Female,New Thomasberg,Premium,1228.36,30,154,12,27,2026-02-11,3,No
+CUST00912,66,Female,East Krystal,Premium,1095.3,22,195,5,1,2026-01-03,1,No
+CUST00913,44,Male,Port Davidborough,Standard,348.3,27,93,16,3,2025-08-27,9,Yes
+CUST00914,71,Male,New Brittany,Premium,33.63,88,191,3,20,2026-06-17,7,No
+CUST00915,41,Male,South Sheilaport,Standard,1210.89,12,54,18,58,2026-02-03,1,No
+CUST00916,59,Male,Lake Christine,Premium,109.22,55,34,14,33,2025-10-29,5,No
+CUST00917,30,Female,Tateton,Standard,1099.57,68,120,4,31,2025-09-04,2,Yes
+CUST00918,66,Male,Port Lawrenceport,Premium,539.05,51,80,6,31,2025-10-27,4,Yes
+CUST00919,27,Male,Jonesbury,Premium,1458.35,79,72,4,22,2026-01-10,10,No
+CUST00920,29,Male,New Nicholas,Basic,1076.27,29,52,4,17,2026-03-30,5,No
+CUST00921,48,Male,Joshuafort,Standard,1248.4,64,190,7,57,2025-09-14,7,No
+CUST00922,29,Male,South Alex,Basic,464.37,2,30,12,44,2025-07-01,8,No
+CUST00923,44,Male,Crystalborough,Standard,1932.45,71,90,16,37,2025-07-03,8,No
+CUST00924,66,Female,Millerport,Standard,784.19,89,177,18,23,2026-04-14,6,No
+CUST00925,32,Female,Lake Michelle,Premium,527.2,52,148,5,39,2026-03-07,5,Yes
+CUST00926,62,Male,South Kaylaside,Basic,969.19,53,155,15,57,2026-04-10,8,No
+CUST00927,67,Male,Joshualand,Basic,686.02,105,184,7,48,2025-12-24,8,Yes
+CUST00928,61,Female,South James,Premium,158.81,36,179,4,37,2025-10-17,2,No
+CUST00929,68,Male,West Adrian,Basic,683.19,7,69,1,13,2025-09-03,8,No
+CUST00930,53,Male,Lake Kaitlynfort,Premium,32.32,33,172,3,51,2025-09-06,2,No
+CUST00931,20,Male,Travismouth,Basic,1221.51,82,90,13,8,2026-06-20,6,Yes
+CUST00932,58,Female,West Jeffrey,Standard,188.78,107,156,18,59,2026-02-07,10,No
+CUST00933,25,Female,Alyssashire,Premium,1869.11,106,186,0,42,2025-10-09,3,Yes
+CUST00934,33,Male,Bensonview,Basic,1205.28,18,120,3,46,2025-06-24,3,No
+CUST00935,21,Female,South William,Basic,1267.29,71,148,17,52,2025-07-03,10,No
+CUST00936,70,Female,New Kennethmouth,Basic,325.45,4,129,19,52,2026-03-15,8,No
+CUST00937,35,Male,Loritown,Basic,859.91,3,147,4,25,2026-01-21,8,No
+CUST00938,70,Male,Davischester,Premium,1269.35,115,36,20,56,2025-08-06,4,No
+CUST00939,59,Female,North Lori,Basic,1481.04,101,59,9,7,2026-05-30,10,Yes
+CUST00940,22,Male,East Joseph,Premium,838.62,38,75,15,12,2025-11-01,1,Yes
+CUST00941,68,Male,Carolineburgh,Standard,520.49,118,44,5,55,2025-10-29,8,No
+CUST00942,58,Male,Lake Christine,Basic,467.99,48,197,20,10,2025-10-22,3,Yes
+CUST00943,53,Female,South Nathanburgh,Standard,626.68,90,0,0,58,2026-04-04,6,Yes
+CUST00944,74,Female,Lake Vanessa,Basic,1483.9,31,134,10,22,2026-05-06,9,Yes
+CUST00945,51,Male,Nathanview,Premium,748.07,18,75,3,22,2026-03-12,2,No
+CUST00946,36,Male,Franktown,Premium,1351.95,45,147,9,18,2025-08-24,7,No
+CUST00947,31,Female,Mollyport,Premium,689.04,73,33,7,40,2025-08-22,2,Yes
+CUST00948,26,Male,Moseston,Premium,850.08,30,140,3,0,2026-06-05,8,No
+CUST00949,62,Female,East Patricialand,Basic,1564.64,30,166,0,52,2026-01-24,2,No
+CUST00950,71,Female,Port Andre,Standard,1370.79,59,153,14,38,2026-02-11,3,Yes
+CUST00951,54,Male,Grayville,Premium,1816.6,18,184,10,29,2026-04-21,3,Yes
+CUST00952,59,Female,Perezborough,Basic,1413.23,98,194,16,25,2026-03-16,9,Yes
+CUST00953,51,Female,Charlesborough,Standard,1597.56,114,58,8,31,2026-02-12,4,Yes
+CUST00954,36,Male,Roberthaven,Standard,510.31,103,87,7,38,2025-06-21,7,No
+CUST00955,24,Female,Johnborough,Basic,1316.79,61,69,19,18,2025-09-29,10,No
+CUST00956,26,Female,Charleneberg,Basic,1076.49,102,120,20,51,2026-04-22,2,Yes
+CUST00957,59,Male,West Joseph,Standard,489.71,117,81,20,15,2026-01-29,2,Yes
+CUST00958,22,Female,South Jennifer,Basic,1849.37,15,39,12,41,2026-05-05,3,No
+CUST00959,51,Female,Rebeccafurt,Standard,1926.12,114,148,19,45,2025-08-10,5,No
+CUST00960,65,Male,Russellside,Premium,458.63,22,196,4,25,2026-03-28,5,Yes
+CUST00961,51,Female,Lake Victoria,Basic,61.03,66,185,0,9,2025-08-18,3,Yes
+CUST00962,39,Male,Randallview,Standard,1030.13,34,165,20,44,2026-01-16,9,No
+CUST00963,70,Male,West Danielberg,Standard,1206.76,117,84,10,1,2025-07-25,9,No
+CUST00964,50,Female,Parkerview,Basic,1709.91,74,127,15,53,2025-08-01,4,No
+CUST00965,23,Male,North Heatherborough,Basic,1007.19,56,152,0,56,2025-12-22,1,Yes
+CUST00966,59,Female,Port Williamton,Premium,1042.18,11,29,18,32,2026-05-11,8,No
+CUST00967,20,Female,Smithbury,Premium,1746.66,36,172,3,38,2026-06-01,10,No
+CUST00968,47,Male,Lake Douglas,Basic,154.88,23,21,7,54,2025-12-23,4,Yes
+CUST00969,60,Female,Port Richardborough,Premium,707.21,107,34,0,29,2026-01-05,2,No
+CUST00970,29,Female,East Kimberly,Standard,1129.63,77,115,11,3,2025-09-18,6,No
+CUST00971,35,Male,New Mary,Premium,338.44,73,148,15,31,2026-03-09,3,Yes
+CUST00972,46,Male,Phillipshaven,Premium,917.51,24,10,5,6,2025-09-24,9,No
+CUST00973,63,Male,North Samuel,Standard,314.28,39,108,9,39,2026-02-28,1,No
+CUST00974,28,Male,Johnsonhaven,Premium,1067.16,77,195,8,21,2026-01-02,2,Yes
+CUST00975,54,Male,East Stephanieville,Premium,1420.78,114,87,20,28,2025-09-26,2,Yes
+CUST00976,55,Male,Acostaville,Standard,786.94,87,64,5,13,2026-04-17,10,Yes
+CUST00977,65,Male,Randymouth,Standard,1462.85,26,14,18,59,2025-08-07,6,Yes
+CUST00978,45,Female,Port Elizabeth,Premium,418.62,57,25,15,34,2025-11-26,6,Yes
+CUST00979,64,Female,Lake Matthewview,Basic,777.75,78,83,10,21,2025-10-08,1,No
+CUST00980,26,Female,East Brendahaven,Standard,365.2,54,127,11,37,2025-10-21,5,No
+CUST00981,25,Female,Patriciachester,Premium,1972.1,55,164,13,2,2025-08-11,2,Yes
+CUST00982,21,Female,North Zachary,Standard,1739.33,38,32,9,0,2025-10-16,6,Yes
+CUST00983,55,Female,New Michellefurt,Basic,55.69,55,84,9,17,2025-12-30,7,No
+CUST00984,21,Female,Leebury,Premium,1634.18,6,174,16,6,2026-06-18,7,No
+CUST00985,50,Male,Lake Edward,Premium,1799.47,37,89,15,34,2026-02-10,8,Yes
+CUST00986,43,Male,Port Erika,Premium,387.46,116,27,16,16,2026-02-28,2,No
+CUST00987,28,Male,Bassburgh,Basic,1404.59,18,12,8,34,2025-11-30,6,No
+CUST00988,44,Female,West Brittanyton,Basic,1889.32,3,94,13,30,2025-11-20,6,No
+CUST00989,45,Female,Lake Frank,Basic,946.49,44,155,6,4,2026-03-20,2,No
+CUST00990,65,Female,Lake Mariachester,Premium,1828.57,8,38,3,0,2025-10-31,7,No
+CUST00991,26,Female,East Brandonchester,Premium,1403.64,76,189,13,49,2026-04-13,5,No
+CUST00992,57,Male,New Jessica,Basic,440.24,24,68,2,0,2026-05-20,4,Yes
+CUST00993,49,Male,Morganburgh,Standard,923.76,2,79,19,54,2026-04-13,4,No
+CUST00994,64,Male,Kaylachester,Standard,1809.41,41,175,13,21,2025-07-31,10,No
+CUST00995,57,Female,Rhondafort,Standard,1662.81,119,28,17,51,2026-05-15,9,No
+CUST00996,43,Male,Jenningsfurt,Premium,1949.96,53,26,18,44,2026-04-09,4,Yes
+CUST00997,66,Male,West Michaelberg,Premium,835.11,61,58,8,57,2025-09-06,6,No
+CUST00998,34,Male,Lake John,Premium,1402.2,88,141,1,10,2025-09-12,4,Yes
+CUST00999,56,Female,Hernandezberg,Premium,1329.24,20,2,20,26,2025-12-17,6,No
+CUST01000,42,Female,Millerside,Basic,644.03,18,178,2,51,2026-04-27,10,No
+CUST01001,25,Female,Lynchport,Standard,883.2,79,200,5,8,2026-05-15,1,No
+CUST01002,57,Female,Lake Greggfurt,Premium,161.5,96,155,5,5,2025-08-22,10,No
+CUST01003,44,Female,New Jessicaport,Basic,1836.44,21,45,7,51,2025-10-30,8,No
+CUST01004,68,Female,Richardfurt,Premium,1750.98,72,32,10,46,2025-07-19,3,No
+CUST01005,33,Female,South Jonathan,Basic,1075.77,17,169,6,55,2025-10-22,2,Yes
+CUST01006,69,Female,South Kellyland,Standard,91.84,94,10,6,12,2025-08-13,1,Yes
+CUST01007,58,Male,Baxterborough,Basic,1588.46,15,53,7,56,2026-03-29,1,Yes
+CUST01008,30,Male,North Philip,Basic,111.17,41,57,10,22,2025-10-06,5,No
+CUST01009,45,Female,Port Jon,Basic,512.21,117,113,5,1,2026-02-24,8,Yes
+CUST01010,50,Female,Carlsonhaven,Premium,674.55,88,191,1,10,2025-06-29,6,No
+CUST01011,75,Male,Ashleyborough,Standard,1245.65,96,118,5,24,2026-04-09,8,No
+CUST01012,48,Female,Lake Johnmouth,Basic,1245.94,7,67,20,56,2025-11-14,5,Yes
+CUST01013,38,Male,Gilmorestad,Basic,801.55,78,189,5,47,2026-03-20,8,No
+CUST01014,69,Male,West Megantown,Premium,202.45,31,94,7,49,2025-09-14,6,No
+CUST01015,50,Female,North Jessicaborough,Premium,1452.35,33,62,14,50,2025-07-17,4,Yes
+CUST01016,35,Female,North Leahstad,Standard,143.95,76,79,0,40,2026-03-31,3,No
+CUST01017,28,Female,Johnsonburgh,Premium,734.7,92,189,9,46,2025-12-30,1,No
+CUST01018,32,Female,Garciaside,Basic,597.01,14,32,11,22,2025-09-06,3,No
+CUST01019,28,Female,North Sarah,Standard,1981.1,21,76,11,49,2025-11-27,9,Yes
+CUST01020,39,Male,New Jeffreyview,Premium,1744.45,43,39,5,26,2025-11-19,4,Yes
+CUST01021,24,Female,Port Jamesshire,Basic,1988.17,85,153,9,36,2026-03-02,10,No
+CUST01022,61,Female,Lake Wendyfort,Premium,962.2,83,188,19,10,2025-11-21,1,No
+CUST01023,56,Female,Port Jasonburgh,Standard,642.66,77,198,0,39,2026-03-09,2,Yes
+CUST01024,55,Female,South Ruthville,Basic,1146.66,7,66,1,15,2025-10-14,7,No
+CUST01025,31,Female,Sarahtown,Premium,564.0,1,147,15,57,2025-12-15,1,Yes
+CUST01026,68,Female,Port Brandonstad,Standard,101.43,32,93,13,26,2026-01-26,10,No
+CUST01027,65,Female,Port Joseph,Standard,1374.74,40,159,2,6,2025-10-01,8,Yes
+CUST01028,69,Female,Diazborough,Premium,1029.12,66,65,14,26,2026-04-05,5,No
+CUST01029,67,Female,Roseton,Standard,386.26,60,47,13,30,2026-05-12,7,No
+CUST01030,49,Male,Port Melissaberg,Basic,1797.19,89,163,4,2,2026-06-18,7,No
+CUST01031,21,Female,Lake Joanna,Premium,94.87,76,153,5,56,2025-11-28,3,Yes
+CUST01032,34,Male,West Dwaynechester,Basic,1371.25,61,106,12,41,2026-04-19,10,No
+CUST01033,70,Male,Robbinsstad,Basic,612.23,56,168,10,16,2026-02-28,8,No
+CUST01034,69,Male,East Debra,Basic,809.94,16,125,19,49,2026-05-19,10,No
+CUST01035,29,Female,Meganshire,Premium,1722.99,47,7,2,15,2026-02-25,4,No
+CUST01036,34,Female,New Frank,Premium,588.78,9,200,0,12,2026-04-23,7,No
+CUST01037,27,Male,Stephaniestad,Basic,1527.56,28,123,11,57,2025-12-28,2,No
+CUST01038,70,Female,West Jacobstad,Standard,302.38,88,61,10,6,2025-09-10,9,No
+CUST01039,41,Male,North Robert,Premium,256.67,51,90,13,51,2025-12-24,10,No
+CUST01040,42,Male,Perezmouth,Basic,102.61,23,200,6,4,2026-04-02,1,No
+CUST01041,59,Female,West Joshua,Standard,926.41,50,53,7,60,2025-07-25,6,No
+CUST01042,26,Male,Lake Jeffreyfort,Basic,984.31,87,154,19,29,2025-12-10,7,Yes
+CUST01043,70,Male,South Meredith,Standard,712.24,115,103,3,5,2025-09-30,10,No
+CUST01044,54,Female,Joshuashire,Premium,697.19,10,25,2,54,2025-07-13,7,Yes
+CUST01045,33,Female,East Cody,Standard,1533.51,79,28,13,22,2025-07-05,1,No
+CUST01046,41,Male,Kellybury,Premium,1374.47,1,173,16,52,2026-01-18,1,No
+CUST01047,35,Male,Pamelatown,Basic,132.08,4,6,0,4,2026-04-20,2,Yes
+CUST01048,57,Male,Port Gregoryside,Premium,1055.72,21,124,20,53,2025-07-22,6,Yes
+CUST01049,55,Female,Ronaldtown,Standard,894.65,18,35,14,35,2025-12-05,5,No
+CUST01050,38,Male,Michaelshire,Premium,54.44,19,26,0,21,2026-02-13,8,Yes
+CUST01051,37,Male,North Cynthiafort,Premium,1118.16,71,24,9,7,2025-10-01,7,No
+CUST01052,31,Male,Alexside,Standard,1743.57,38,45,8,31,2025-07-15,4,No
+CUST01053,47,Male,Taylorchester,Premium,921.3,106,47,12,21,2026-06-02,8,No
+CUST01054,72,Male,Smithborough,Standard,286.56,37,31,19,49,2025-07-03,1,No
+CUST01055,21,Male,Ryanport,Basic,1966.54,101,30,20,53,2026-03-18,5,No
+CUST01056,59,Male,East Jason,Basic,1214.08,106,190,13,46,2025-09-19,4,No
+CUST01057,23,Male,South Justin,Premium,1983.15,14,61,14,42,2025-11-25,3,Yes
+CUST01058,71,Male,Karenfort,Standard,1610.84,67,84,1,34,2026-01-05,3,No
+CUST01059,60,Female,South Carla,Premium,755.59,61,17,4,12,2025-11-03,1,No
+CUST01060,69,Female,Lake Richardshire,Basic,1320.47,69,53,20,3,2025-12-07,1,Yes
+CUST01061,30,Male,Mirandaville,Premium,562.16,29,2,17,36,2025-12-01,8,No
+CUST01062,36,Female,Christinemouth,Basic,141.97,23,72,15,51,2026-06-05,1,Yes
+CUST01063,71,Female,Port Zachary,Basic,748.34,44,129,2,2,2025-06-24,4,Yes
+CUST01064,25,Female,Lake Christina,Standard,1790.06,68,161,18,47,2025-12-04,10,No
+CUST01065,27,Male,Mccormickmouth,Premium,1493.39,45,54,5,26,2025-09-01,6,Yes
+CUST01066,30,Female,North Nicolefurt,Premium,590.77,36,108,11,60,2026-03-01,8,No
+CUST01067,60,Female,Geraldfort,Standard,1326.43,61,71,20,26,2026-06-06,2,Yes
+CUST01068,71,Female,Meghanberg,Premium,1829.68,76,18,7,37,2026-02-27,1,No
+CUST01069,20,Female,South Cameronberg,Standard,1681.51,113,146,19,54,2025-09-15,9,No
+CUST01070,66,Male,Hancockberg,Premium,185.68,39,160,15,30,2026-03-14,8,No
+CUST01071,62,Female,Grantmouth,Standard,675.43,9,66,11,9,2025-10-14,5,No
+CUST01072,41,Female,North Megan,Premium,1450.49,45,139,1,27,2026-05-21,9,No
+CUST01073,46,Female,East Melindachester,Premium,1142.0,48,46,11,8,2026-06-06,8,No
+CUST01074,22,Female,North Sarah,Basic,1246.22,89,95,16,4,2025-07-25,5,No
+CUST01075,50,Female,South Samuelshire,Basic,710.66,94,20,7,12,2025-12-27,10,No
+CUST01076,28,Female,East Alexismouth,Premium,246.74,17,38,15,45,2026-05-06,4,No
+CUST01077,26,Male,Lake Lisahaven,Standard,322.49,67,187,0,22,2026-03-12,3,Yes
+CUST01078,20,Male,North Jimmyborough,Basic,1576.23,68,175,4,10,2026-01-27,4,Yes
+CUST01079,22,Male,Susanstad,Basic,268.24,13,118,15,12,2025-10-24,7,No
+CUST01080,20,Male,North Sarah,Basic,1127.53,80,199,13,23,2025-10-07,3,No
+CUST01081,29,Male,Jameshaven,Basic,1535.18,25,32,15,22,2025-09-28,7,No
+CUST01082,32,Male,East Thomas,Standard,1979.78,102,5,3,48,2025-10-06,5,No
+CUST01083,54,Male,East Michaelville,Standard,1291.65,8,168,3,24,2026-05-24,7,No
+CUST01084,75,Male,Lake Brittany,Basic,1622.94,46,89,2,9,2026-05-28,7,No
+CUST01085,24,Male,Staceyburgh,Standard,747.26,105,178,19,26,2025-11-27,2,Yes
+CUST01086,20,Female,West Katherineview,Standard,1929.45,40,119,2,58,2025-09-01,8,No
+CUST01087,42,Male,Richardshire,Standard,1467.88,74,173,0,7,2026-02-20,1,Yes
+CUST01088,61,Male,Lake Juliaton,Premium,831.43,41,58,11,1,2025-09-23,4,Yes
+CUST01089,41,Male,South Sandraland,Standard,782.34,51,187,0,45,2025-09-15,1,No
+CUST01090,48,Male,Lake Matthewborough,Standard,1735.91,102,13,1,55,2025-07-15,10,No
+CUST01091,65,Female,Jordanbury,Premium,1186.28,15,70,3,17,2026-04-21,6,No
+CUST01092,34,Female,Robbinsland,Standard,1409.28,56,60,5,1,2025-08-19,7,No
+CUST01093,46,Female,West Margaret,Standard,1543.66,25,163,7,56,2026-01-15,8,No
+CUST01094,18,Male,Mitchellburgh,Standard,11.03,28,150,2,46,2026-03-23,3,Yes
+CUST01095,48,Male,Rebeccaport,Basic,671.99,116,166,15,45,2025-08-05,8,No
+CUST01096,24,Male,New Sharonfort,Standard,841.62,104,50,5,52,2026-01-12,4,No
+CUST01097,75,Male,South Mariomouth,Premium,1525.17,58,22,18,26,2026-03-25,9,Yes
+CUST01098,70,Male,Danielville,Premium,512.01,29,38,9,6,2025-07-17,4,No
+CUST01099,63,Female,Lake Jordan,Premium,160.86,70,72,11,16,2025-09-12,6,No
+CUST01100,37,Female,Port Joanneside,Basic,1598.28,64,168,0,34,2025-07-27,3,Yes
+CUST01101,45,Female,Montoyaborough,Premium,400.98,26,22,20,10,2025-07-21,4,Yes
+CUST01102,40,Female,Brownburgh,Standard,1640.7,6,183,16,19,2026-05-17,4,Yes
+CUST01103,71,Male,Seanchester,Premium,896.41,80,90,4,29,2026-06-20,6,No
+CUST01104,34,Male,Gregoryberg,Standard,1346.9,99,170,17,32,2025-10-21,2,Yes
+CUST01105,32,Female,Andersenbury,Premium,1776.22,88,42,18,42,2026-05-31,8,No
+CUST01106,20,Male,Samuelview,Standard,917.44,51,72,7,32,2025-12-22,10,No
+CUST01107,32,Female,Alvarezhaven,Basic,1994.93,12,189,15,5,2026-02-26,5,Yes
+CUST01108,70,Male,Tracimouth,Basic,320.51,110,109,15,39,2026-01-06,1,Yes
+CUST01109,74,Female,Port Cynthiafurt,Standard,709.21,59,22,0,47,2026-05-29,7,Yes
+CUST01110,24,Male,Khanmouth,Basic,1373.14,79,181,4,28,2025-09-01,9,No
+CUST01111,65,Male,New Melissafort,Standard,1366.55,17,200,11,58,2025-07-22,10,No
+CUST01112,64,Male,Lake Sethbury,Standard,1784.31,33,198,0,31,2025-10-11,10,No
+CUST01113,39,Female,West Joshua,Premium,715.66,102,154,5,48,2025-09-30,1,No
+CUST01114,37,Male,Lake Paulberg,Premium,42.65,75,146,13,54,2025-10-24,2,No
+CUST01115,33,Male,Robertside,Basic,923.79,114,87,10,13,2026-06-03,4,No
+CUST01116,58,Female,New Tyler,Basic,123.9,114,67,4,50,2025-11-22,9,No
+CUST01117,27,Male,North Brady,Premium,658.74,116,48,2,21,2026-03-04,6,No
+CUST01118,45,Female,Ramirezfort,Standard,554.9,26,154,0,0,2026-04-06,8,Yes
+CUST01119,64,Male,Evanston,Premium,1306.45,78,23,14,45,2025-11-15,9,Yes
+CUST01120,38,Female,Danaport,Standard,767.0,119,160,13,24,2025-11-02,1,Yes
+CUST01121,59,Female,West Denise,Basic,813.88,118,154,18,32,2026-03-27,3,Yes
+CUST01122,22,Female,South Robert,Standard,1114.58,112,161,12,12,2026-04-23,1,Yes
+CUST01123,65,Female,Port Gabriel,Standard,1450.51,80,59,8,32,2025-10-02,5,No
+CUST01124,43,Male,South Danielton,Premium,1479.12,13,37,15,56,2025-11-15,10,Yes
+CUST01125,33,Male,Christopherchester,Premium,1833.61,110,91,9,18,2026-03-26,5,No
+CUST01126,60,Female,Carpenterville,Basic,38.6,22,82,19,28,2025-08-02,8,Yes
+CUST01127,72,Female,Ingramland,Basic,1474.15,74,200,1,31,2026-04-11,3,Yes
+CUST01128,37,Female,Kariton,Standard,906.08,67,90,16,22,2025-08-17,5,Yes
+CUST01129,55,Male,East Lisaville,Premium,1821.64,30,123,11,14,2025-12-12,9,Yes
+CUST01130,22,Male,South Marcusmouth,Standard,1391.38,116,97,5,1,2025-09-14,2,Yes
+CUST01131,59,Male,Johnborough,Premium,390.04,10,77,11,1,2026-06-08,8,Yes
+CUST01132,24,Male,Thomasmouth,Basic,1035.93,99,155,0,22,2026-01-31,8,No
+CUST01133,38,Female,Chloefort,Premium,570.77,19,183,18,26,2026-03-13,10,No
+CUST01134,69,Male,Muellertown,Premium,552.63,18,164,8,11,2026-06-15,10,No
+CUST01135,59,Male,West Angelafurt,Standard,803.26,44,187,2,19,2025-09-29,5,No
+CUST01136,24,Male,Port Stevenmouth,Standard,1990.18,96,36,19,42,2026-01-11,8,Yes
+CUST01137,39,Female,Danielview,Standard,1540.9,10,161,16,16,2026-02-07,3,Yes
+CUST01138,40,Male,East Stephanieville,Basic,530.13,71,33,11,41,2026-01-01,3,Yes
+CUST01139,34,Male,Port Adrian,Basic,1227.57,93,113,12,29,2026-05-21,2,Yes
+CUST01140,21,Male,Lake Patrick,Standard,1780.74,5,76,17,8,2025-09-16,9,Yes
+CUST01141,70,Male,Davisburgh,Standard,91.76,66,3,8,27,2026-04-29,4,No
+CUST01142,72,Male,Sarahfurt,Standard,643.15,101,22,10,40,2026-02-27,9,No
+CUST01143,67,Female,West Michelletown,Premium,383.29,87,5,18,11,2026-02-28,7,No
+CUST01144,44,Female,Alanmouth,Premium,1379.81,38,71,16,21,2025-12-07,6,No
+CUST01145,59,Male,Allisonchester,Basic,639.1,111,61,19,36,2025-12-16,5,No
+CUST01146,74,Female,Garrettbury,Basic,1146.09,119,142,10,2,2026-01-01,3,Yes
+CUST01147,47,Male,New Alicia,Standard,348.81,63,70,20,8,2025-12-06,4,Yes
+CUST01148,39,Male,Franklinville,Premium,794.74,114,118,16,39,2025-10-09,6,Yes
+CUST01149,39,Female,Weaverstad,Standard,284.22,21,154,7,57,2026-01-07,4,Yes
+CUST01150,60,Male,New Karenmouth,Standard,1527.92,32,178,20,20,2025-10-26,7,No
+CUST01151,50,Female,Johnfort,Premium,1879.76,79,11,5,19,2025-11-16,1,Yes
+CUST01152,56,Female,Lake Josephfort,Basic,447.77,72,187,7,44,2025-07-06,9,No
+CUST01153,69,Female,South Christina,Standard,1924.13,105,134,9,27,2026-03-14,1,No
+CUST01154,60,Female,New Louis,Basic,1463.97,12,104,1,17,2025-12-12,1,Yes
+CUST01155,63,Female,Phillipston,Standard,1240.27,63,124,12,31,2025-11-01,10,Yes
+CUST01156,29,Female,East Jeff,Premium,1422.11,96,94,2,45,2026-04-21,7,No
+CUST01157,66,Male,Lake Omar,Premium,756.97,29,150,0,39,2026-04-16,1,Yes
+CUST01158,66,Female,Heatherview,Basic,236.98,1,73,6,33,2026-01-12,3,Yes
+CUST01159,55,Male,Christophertown,Basic,435.55,79,12,6,57,2026-03-23,9,No
+CUST01160,41,Male,Hillland,Basic,224.59,2,145,1,2,2025-09-21,4,Yes
+CUST01161,53,Female,Nathanielhaven,Premium,1685.66,112,200,16,8,2026-01-22,5,No
+CUST01162,26,Female,Chenmouth,Basic,698.12,31,23,2,44,2025-11-16,9,No
+CUST01163,41,Female,Richardschester,Premium,1203.75,10,51,1,27,2026-02-04,1,No
+CUST01164,48,Male,Youngshire,Basic,909.46,105,74,6,20,2025-09-02,7,No
+CUST01165,57,Female,Smithborough,Premium,1369.12,116,196,13,20,2026-02-15,2,No
+CUST01166,36,Male,Carterbury,Basic,1218.1,98,45,1,11,2026-03-14,9,No
+CUST01167,52,Female,East Kimberlybury,Premium,175.2,32,42,12,58,2025-12-25,10,Yes
+CUST01168,50,Male,Brandyside,Premium,1432.51,91,34,0,37,2026-04-21,5,No
+CUST01169,21,Male,South Douglas,Premium,691.53,72,118,10,4,2025-06-22,8,No
+CUST01170,20,Male,Tinabury,Premium,1756.3,27,86,4,59,2026-02-08,1,No
+CUST01171,37,Female,East Tiffany,Standard,1153.38,116,193,6,12,2026-05-21,10,No
+CUST01172,71,Male,Juliemouth,Basic,1022.03,65,79,10,8,2025-07-23,2,No
+CUST01173,18,Male,Richardfort,Premium,319.66,1,117,6,14,2026-04-20,5,No
+CUST01174,60,Female,Huntfurt,Premium,1692.66,67,37,7,58,2026-01-26,2,No
+CUST01175,53,Male,Cooperland,Standard,717.67,120,69,18,42,2025-09-15,4,Yes
+CUST01176,71,Male,North Krystalland,Premium,1206.35,39,200,15,52,2026-01-07,4,No
+CUST01177,68,Female,West Kurttown,Basic,675.55,99,7,17,21,2026-04-05,3,No
+CUST01178,46,Male,New William,Basic,837.48,81,121,4,18,2025-06-28,8,No
+CUST01179,31,Female,Juliachester,Basic,749.2,54,92,3,44,2026-03-09,7,Yes
+CUST01180,58,Female,Roblesshire,Basic,185.24,45,125,10,28,2026-02-11,6,No
+CUST01181,25,Male,East Jenniferburgh,Standard,1589.57,51,41,17,10,2025-07-16,9,No
+CUST01182,59,Female,Diazborough,Premium,1704.02,1,17,0,52,2025-09-24,3,Yes
+CUST01183,41,Female,Port Glenn,Standard,1900.32,78,4,12,23,2025-09-27,5,No
+CUST01184,32,Female,North Meghanmouth,Basic,241.74,24,6,19,43,2026-01-24,8,Yes
+CUST01185,34,Male,Nelsonmouth,Basic,1317.5,84,139,6,28,2026-01-27,1,Yes
+CUST01186,68,Female,North Andrew,Standard,949.84,43,199,12,5,2026-02-26,6,No
+CUST01187,33,Male,South Anthony,Standard,1809.86,38,143,17,10,2026-01-04,2,Yes
+CUST01188,25,Male,West Christopher,Basic,466.33,100,175,15,33,2025-11-27,5,No
+CUST01189,73,Female,Nelsonshire,Basic,1429.68,15,34,20,59,2025-12-13,5,No
+CUST01190,20,Male,North Lisa,Standard,99.43,98,85,1,49,2025-08-14,6,No
+CUST01191,69,Male,South Angela,Premium,73.14,28,47,8,57,2025-11-03,3,Yes
+CUST01192,34,Male,Christopherton,Premium,391.4,66,74,16,50,2026-06-10,2,Yes
+CUST01193,54,Female,North Wendy,Standard,1112.52,38,147,16,5,2026-03-17,9,No
+CUST01194,57,Female,Annaville,Premium,963.19,18,97,6,16,2026-04-09,2,No
+CUST01195,75,Male,New Patrickbury,Standard,875.05,114,51,11,23,2025-10-26,8,No
+CUST01196,35,Male,North Phillip,Premium,770.27,5,144,5,12,2026-01-17,2,No
+CUST01197,54,Female,New Catherineville,Standard,1080.54,118,195,7,47,2025-10-19,3,No
+CUST01198,23,Male,East Donaldfurt,Basic,1979.56,34,156,5,30,2026-06-17,10,No
+CUST01199,47,Male,New Jessicabury,Basic,1358.95,4,164,13,17,2025-09-27,3,Yes
+CUST01200,71,Female,Meghanton,Basic,1761.74,5,59,6,42,2025-08-19,1,No
+CUST01201,55,Male,Jeffreymouth,Premium,233.54,94,130,18,11,2025-12-06,4,Yes
+CUST01202,38,Male,North Amy,Standard,141.31,28,61,15,27,2025-11-15,5,Yes
+CUST01203,24,Female,Lake Heatherland,Standard,818.35,32,59,15,23,2025-08-22,2,Yes
+CUST01204,32,Male,West Michelle,Standard,1412.9,73,74,8,51,2025-12-15,5,No
+CUST01205,30,Male,West Ashleyshire,Basic,723.56,61,6,10,0,2026-05-17,5,No
+CUST01206,35,Male,Mendozaland,Premium,66.49,108,168,1,53,2025-07-05,1,Yes
+CUST01207,71,Female,Jenniferborough,Standard,970.1,40,184,5,35,2025-10-05,10,No
+CUST01208,46,Female,Monicaborough,Basic,346.48,7,160,2,16,2025-10-24,6,No
+CUST01209,57,Female,South Alicia,Standard,170.53,32,76,6,11,2025-11-17,7,No
+CUST01210,51,Male,Hernandezfort,Premium,1106.58,100,101,8,35,2025-10-21,1,No
+CUST01211,51,Female,New Kyleshire,Standard,57.88,53,55,19,4,2025-09-19,7,Yes
+CUST01212,63,Female,Kruegerside,Basic,1320.95,45,94,4,13,2025-10-28,6,Yes
+CUST01213,64,Female,West Jonathan,Standard,697.62,41,72,6,8,2025-08-05,10,No
+CUST01214,42,Female,East Taylor,Standard,1287.26,79,2,9,51,2025-10-24,6,Yes
+CUST01215,35,Male,Lake Julietown,Premium,318.53,4,176,17,44,2025-08-30,4,Yes
+CUST01216,52,Male,Meredithton,Standard,955.16,32,129,16,53,2025-08-12,7,No
+CUST01217,32,Female,West Andrew,Basic,1754.89,35,130,5,56,2025-11-26,6,No
+CUST01218,68,Female,Laratown,Standard,1157.87,44,120,4,16,2025-07-12,9,No
+CUST01219,20,Female,North Joshuaview,Basic,317.53,80,132,1,21,2026-04-23,9,No
+CUST01220,56,Female,Kevinstad,Basic,888.63,49,177,16,10,2025-07-15,2,No
+CUST01221,48,Female,Sullivanchester,Standard,1182.15,90,16,4,13,2025-12-08,7,No
+CUST01222,62,Female,New Nathan,Premium,1282.74,73,56,5,38,2026-06-16,7,No
+CUST01223,73,Female,Michelleview,Basic,748.21,21,200,12,19,2026-03-22,9,No
+CUST01224,21,Male,Knighttown,Basic,915.62,42,199,15,1,2026-06-05,5,Yes
+CUST01225,62,Male,Jordanshire,Basic,449.09,83,16,14,50,2026-03-09,2,Yes
+CUST01226,45,Male,South Stephaniehaven,Basic,1748.93,81,57,3,15,2025-12-08,3,Yes
+CUST01227,47,Female,Karifort,Premium,298.72,44,102,2,19,2026-03-15,6,No
+CUST01228,24,Female,South Jennifermouth,Basic,1457.26,24,28,3,30,2026-05-11,9,No
+CUST01229,18,Female,North Kyle,Standard,1806.04,80,50,11,60,2025-07-28,5,No
+CUST01230,41,Female,Toddmouth,Standard,1927.85,78,150,6,40,2026-04-17,2,No
+CUST01231,72,Male,North Desireeberg,Standard,1724.27,18,26,11,30,2025-08-14,9,No
+CUST01232,30,Male,New Gregorychester,Standard,374.96,12,195,15,2,2026-01-14,4,Yes
+CUST01233,61,Male,Lake Kevin,Premium,195.25,75,58,5,45,2026-06-12,3,Yes
+CUST01234,47,Male,New Justinton,Standard,1506.41,50,16,19,6,2025-12-12,7,No
+CUST01235,58,Male,Wilkersonhaven,Standard,974.46,73,21,0,30,2025-12-13,10,No
+CUST01236,53,Male,Adamsbury,Basic,1887.15,57,174,13,20,2025-12-11,8,No
+CUST01237,62,Female,Stephenton,Basic,841.76,69,94,1,17,2025-12-01,9,No
+CUST01238,75,Female,Samanthaberg,Standard,554.35,35,16,2,47,2025-08-20,5,No
+CUST01239,18,Female,North Cheryl,Premium,1598.13,10,42,12,32,2026-05-28,9,No
+CUST01240,56,Male,West Alexander,Premium,77.99,20,47,6,22,2025-10-25,1,Yes
+CUST01241,43,Male,New Ronaldhaven,Basic,1734.35,97,184,11,46,2025-08-04,1,Yes
+CUST01242,73,Male,West Jeremy,Premium,1706.52,87,148,14,2,2025-10-10,7,No
+CUST01243,30,Male,East Kyle,Basic,192.03,86,35,6,36,2026-03-11,3,No
+CUST01244,61,Male,Briannamouth,Premium,236.55,29,197,15,36,2026-04-20,10,Yes
+CUST01245,18,Male,Stephanieland,Basic,264.1,39,8,6,4,2026-05-25,1,Yes
+CUST01246,54,Male,Cortezchester,Basic,865.69,92,12,8,21,2026-01-03,7,No
+CUST01247,51,Male,Nicholastown,Basic,855.42,101,15,17,35,2026-03-28,5,No
+CUST01248,55,Female,Port Kathrynhaven,Basic,676.39,11,43,13,15,2026-06-14,3,No
+CUST01249,23,Male,Port Elaineberg,Basic,392.5,42,171,5,16,2025-06-29,8,No
+CUST01250,69,Female,West Kristy,Standard,1753.42,12,193,9,16,2025-12-22,2,Yes
+CUST01251,55,Female,Port Kathy,Basic,1194.71,59,21,4,35,2025-08-22,9,Yes
+CUST01252,56,Male,Harrisview,Premium,1463.24,112,92,13,21,2025-10-03,9,No
+CUST01253,35,Male,North Annaburgh,Basic,124.86,91,154,19,3,2026-02-10,6,No
+CUST01254,44,Female,Melissaville,Standard,1038.38,40,16,7,7,2026-03-03,3,Yes
+CUST01255,24,Female,East Debbieborough,Basic,1057.56,113,14,9,38,2025-06-29,8,No
+CUST01256,21,Male,Katherineville,Premium,1506.97,36,192,18,13,2026-01-12,1,No
+CUST01257,22,Male,North John,Standard,166.67,108,54,10,5,2026-03-16,8,No
+CUST01258,21,Female,North Kyle,Premium,648.14,55,141,4,32,2025-12-26,7,No
+CUST01259,35,Male,Thomasshire,Standard,1739.87,16,184,1,58,2025-07-18,3,Yes
+CUST01260,67,Male,Dixonbury,Premium,44.18,106,35,5,17,2025-10-31,10,No
+CUST01261,51,Male,South Malloryfort,Premium,1844.26,75,11,16,8,2026-05-03,3,Yes
+CUST01262,34,Male,New Tammy,Premium,1694.98,19,114,16,13,2026-01-10,10,Yes
+CUST01263,31,Female,Foxshire,Premium,534.23,1,15,4,54,2025-08-12,5,No
+CUST01264,18,Female,Cooperville,Premium,1026.3,16,155,16,24,2025-12-05,1,No
+CUST01265,59,Male,West Daniel,Standard,1912.23,116,128,15,7,2025-06-21,5,No
+CUST01266,46,Female,Donnamouth,Premium,1097.59,110,170,7,58,2025-11-21,6,No
+CUST01267,33,Male,Tammyhaven,Premium,1517.98,62,62,6,22,2026-03-16,10,No
+CUST01268,54,Female,West Stevenberg,Basic,1162.35,36,20,1,59,2025-07-21,6,Yes
+CUST01269,38,Female,Snyderville,Standard,204.57,41,23,10,27,2025-08-24,9,No
+CUST01270,74,Male,Davidbury,Standard,1380.19,119,169,14,42,2025-08-27,10,Yes
+CUST01271,63,Male,North Adamborough,Standard,1203.85,35,89,0,42,2026-05-17,9,Yes
+CUST01272,37,Female,Tinaborough,Premium,450.55,91,13,15,36,2025-10-13,10,No
+CUST01273,31,Male,Bauerchester,Basic,401.36,51,50,19,47,2025-07-31,1,No
+CUST01274,21,Female,South Donnafort,Basic,1128.24,88,22,13,21,2025-10-16,9,Yes
+CUST01275,57,Male,Hallshire,Premium,1209.7,91,85,5,8,2026-05-14,1,No
+CUST01276,65,Male,Rickyburgh,Standard,348.14,69,114,14,44,2026-01-10,10,No
+CUST01277,57,Female,Joseport,Basic,1227.33,78,93,0,26,2025-08-08,5,No
+CUST01278,19,Male,East John,Premium,177.46,58,129,4,33,2025-11-15,2,Yes
+CUST01279,55,Male,Espinozaland,Premium,1004.23,92,60,10,12,2026-05-05,10,No
+CUST01280,57,Male,Watsonhaven,Premium,962.08,55,21,20,43,2026-02-01,3,Yes
+CUST01281,45,Male,New Kristin,Premium,1044.2,58,185,15,48,2026-05-18,1,Yes
+CUST01282,39,Female,West Rhonda,Premium,1206.8,40,191,4,30,2026-05-20,2,No
+CUST01283,41,Female,Angelafort,Basic,112.5,29,119,17,51,2026-02-25,4,No
+CUST01284,21,Male,Colleenshire,Standard,285.2,29,117,12,8,2025-11-21,8,No
+CUST01285,35,Female,Greeneborough,Basic,1952.07,13,124,7,31,2025-09-14,4,Yes
+CUST01286,67,Male,West Ginatown,Premium,1732.16,73,166,1,33,2026-02-13,6,No
+CUST01287,63,Male,East Wesley,Standard,614.43,117,0,17,28,2025-09-25,3,No
+CUST01288,40,Female,East Johnville,Standard,981.11,38,149,16,53,2025-07-25,3,No
+CUST01289,34,Male,Hendersonfurt,Basic,1145.89,3,3,19,8,2025-07-19,5,No
+CUST01290,47,Female,Yateston,Premium,876.21,77,128,15,9,2025-11-24,9,Yes
+CUST01291,70,Female,Kathyton,Standard,84.99,88,171,15,41,2026-06-15,8,No
+CUST01292,63,Female,Hoffmanland,Basic,289.99,110,21,17,47,2026-04-06,6,No
+CUST01293,51,Male,Patricktown,Basic,1415.49,109,34,6,30,2025-09-11,1,No
+CUST01294,25,Male,Kennethfurt,Basic,1922.37,97,33,8,11,2025-12-04,9,No
+CUST01295,25,Male,North Katherinefurt,Basic,770.56,119,6,10,44,2026-03-18,10,No
+CUST01296,68,Male,South Christine,Basic,931.95,114,108,11,39,2026-05-30,4,No
+CUST01297,31,Female,South Jamesville,Standard,1703.24,31,78,19,50,2026-03-19,7,No
+CUST01298,61,Female,Anitaburgh,Standard,284.04,26,168,8,10,2025-11-15,8,No
+CUST01299,21,Male,Lake Matthewfurt,Premium,1477.95,19,182,2,27,2025-11-26,3,No
+CUST01300,43,Male,North Marcview,Premium,1443.98,82,74,12,0,2025-06-22,10,No
+CUST01301,47,Female,Danielleview,Basic,1760.66,56,85,13,58,2025-08-23,4,No
+CUST01302,53,Male,North Rebeccatown,Basic,189.77,8,45,11,51,2026-02-16,1,No
+CUST01303,45,Female,Limouth,Standard,1138.46,18,1,7,22,2025-10-24,7,No
+CUST01304,64,Male,East Allisonberg,Basic,724.17,25,60,14,23,2026-01-21,10,No
+CUST01305,41,Male,North Miranda,Basic,1936.16,112,94,2,46,2026-04-29,5,No
+CUST01306,60,Female,Davidchester,Basic,599.99,16,78,8,37,2026-02-15,2,Yes
+CUST01307,43,Male,Judyshire,Basic,869.82,38,158,13,33,2026-06-03,5,Yes
+CUST01308,68,Male,West Chelseyview,Premium,1576.62,41,49,20,13,2026-06-20,3,No
+CUST01309,41,Male,Patelchester,Basic,1294.27,23,137,5,17,2025-12-13,8,No
+CUST01310,23,Female,Richardshire,Premium,889.44,90,114,10,13,2025-08-19,10,Yes
+CUST01311,45,Female,Newtontown,Basic,289.47,65,160,14,48,2025-07-29,10,No
+CUST01312,27,Female,Sharonshire,Standard,1617.39,108,94,20,5,2026-05-22,6,No
+CUST01313,67,Male,Morrisshire,Standard,1941.22,67,50,12,4,2025-07-24,9,No
+CUST01314,72,Male,Shawnberg,Premium,188.42,29,95,4,52,2026-04-11,6,No
+CUST01315,66,Male,West Carolyn,Standard,1201.07,113,25,6,3,2025-07-29,5,No
+CUST01316,42,Male,South Victorberg,Basic,173.46,27,185,1,37,2026-04-21,1,Yes
+CUST01317,43,Male,Shelbyton,Standard,1364.29,55,66,7,53,2026-02-25,3,Yes
+CUST01318,32,Male,Port Jacksonland,Standard,1361.3,3,54,2,44,2025-09-03,6,No
+CUST01319,70,Female,Kevinside,Basic,1766.78,37,77,15,34,2026-05-07,9,Yes
+CUST01320,42,Female,Port Michelleside,Basic,1357.53,89,165,0,3,2025-12-29,6,Yes
+CUST01321,38,Female,Lake Samanthaview,Standard,643.82,12,8,17,9,2025-10-21,3,Yes
+CUST01322,36,Female,North Gerald,Standard,1701.51,67,91,0,2,2025-12-06,7,No
+CUST01323,67,Female,Lawrencebury,Standard,1504.18,7,161,8,29,2026-01-23,9,No
+CUST01324,32,Male,Kristenstad,Premium,1012.08,64,156,20,12,2025-12-26,10,Yes
+CUST01325,59,Male,West Paulhaven,Premium,801.85,66,56,15,25,2025-11-28,5,No
+CUST01326,29,Male,New Katelynborough,Standard,72.08,6,26,8,28,2026-04-12,1,No
+CUST01327,19,Female,New Suzanne,Basic,1416.83,39,131,7,2,2025-10-20,3,Yes
+CUST01328,20,Female,North Corymouth,Premium,1318.42,42,79,16,49,2026-05-14,8,Yes
+CUST01329,54,Female,Crystalport,Basic,117.4,38,23,7,50,2026-02-09,1,Yes
+CUST01330,28,Female,West Frankbury,Standard,401.26,83,13,7,30,2026-04-16,6,No
+CUST01331,23,Female,Williamsburgh,Standard,1665.82,3,101,6,19,2025-12-17,6,Yes
+CUST01332,46,Male,Lake Frederick,Standard,397.74,17,150,2,23,2026-03-26,8,No
+CUST01333,34,Female,Millerville,Basic,977.82,21,69,1,41,2025-09-29,4,No
+CUST01334,37,Male,West Jennifer,Standard,1216.15,21,100,6,45,2025-12-28,6,Yes
+CUST01335,26,Male,Lake Jose,Premium,720.83,45,11,4,43,2026-05-12,7,No
+CUST01336,45,Male,East Meganland,Standard,265.91,102,107,0,39,2025-07-25,3,Yes
+CUST01337,27,Male,Lake Thomasview,Premium,1957.55,103,97,10,36,2026-02-28,8,No
+CUST01338,58,Female,East Kelli,Basic,956.49,38,43,17,32,2026-03-16,3,Yes
+CUST01339,62,Female,Haneyshire,Premium,764.28,25,94,7,13,2025-10-11,6,No
+CUST01340,35,Female,Port Danielville,Standard,700.48,16,86,19,18,2026-05-06,4,Yes
+CUST01341,24,Female,Jessicamouth,Premium,757.02,4,23,6,57,2026-06-19,6,No
+CUST01342,73,Male,North William,Standard,1431.67,65,19,15,44,2025-12-11,3,Yes
+CUST01343,22,Female,North Glen,Basic,1051.25,85,24,7,57,2025-10-15,8,No
+CUST01344,27,Male,Deborahtown,Basic,1202.63,67,84,7,2,2026-06-13,8,Yes
+CUST01345,19,Male,North Jamesview,Standard,1036.5,78,44,7,21,2025-11-21,4,No
+CUST01346,66,Female,North Angelatown,Standard,900.3,12,199,12,21,2025-12-16,10,No
+CUST01347,64,Male,Katherineberg,Standard,1987.22,55,142,20,14,2025-12-30,4,Yes
+CUST01348,48,Male,East Tyler,Standard,1317.19,15,157,10,28,2026-04-07,5,Yes
+CUST01349,31,Female,South Ericfort,Basic,1317.32,57,90,10,46,2025-12-04,10,No
+CUST01350,45,Male,West Taylorland,Basic,1954.55,105,104,11,43,2025-08-19,7,Yes
+CUST01351,49,Male,Russostad,Standard,83.0,28,44,17,23,2025-11-16,9,No
+CUST01352,73,Female,Raymondville,Basic,554.42,46,153,20,51,2025-10-04,4,No
+CUST01353,36,Female,South Peggy,Premium,1697.83,51,157,14,25,2025-11-26,5,Yes
+CUST01354,54,Female,Heatherside,Premium,1383.87,95,192,13,55,2026-02-01,6,Yes
+CUST01355,70,Male,Port Charles,Basic,1523.63,32,78,5,1,2025-08-11,6,No
+CUST01356,37,Male,Erintown,Basic,1091.8,120,161,2,51,2025-07-19,10,No
+CUST01357,50,Male,Smithtown,Basic,582.65,24,188,17,55,2026-01-07,10,No
+CUST01358,75,Female,South Miranda,Standard,1960.3,100,85,15,13,2025-09-04,3,Yes
+CUST01359,20,Male,East Julie,Basic,1735.02,39,1,10,18,2025-08-13,6,No
+CUST01360,26,Male,Peterhaven,Standard,108.8,112,104,20,49,2026-03-07,3,Yes
+CUST01361,66,Female,Robertborough,Basic,593.04,30,106,4,36,2025-09-30,10,No
+CUST01362,42,Female,Donnastad,Premium,599.31,93,147,19,55,2026-01-11,1,Yes
+CUST01363,20,Male,Englishshire,Basic,1571.37,89,129,12,7,2026-01-07,8,No
+CUST01364,59,Male,Johnchester,Standard,365.77,87,189,8,0,2026-04-02,6,Yes
+CUST01365,23,Female,Romeromouth,Basic,1934.74,111,19,12,60,2025-10-03,8,No
+CUST01366,36,Male,Arianaview,Basic,693.95,72,156,12,3,2025-06-24,5,Yes
+CUST01367,49,Female,Port Jamie,Standard,128.26,78,112,16,6,2025-07-24,6,No
+CUST01368,51,Female,Gillland,Standard,519.67,11,69,12,38,2026-06-05,5,No
+CUST01369,51,Male,Rachelberg,Basic,1897.3,25,86,13,18,2025-11-08,8,No
+CUST01370,63,Female,Port Markberg,Premium,373.23,56,97,3,59,2025-08-18,3,Yes
+CUST01371,67,Male,Lake Melissafurt,Basic,1276.86,12,173,17,30,2025-12-22,1,Yes
+CUST01372,35,Male,New Juliafurt,Standard,1295.84,76,195,11,8,2025-08-13,3,Yes
+CUST01373,65,Male,North Nicholas,Standard,1476.71,28,172,7,54,2026-04-01,10,No
+CUST01374,23,Female,Fergusonview,Premium,910.94,47,70,19,12,2025-09-07,2,Yes
+CUST01375,58,Male,Huntfort,Standard,805.08,87,142,18,48,2026-02-20,5,No
+CUST01376,68,Female,Lake Tiffanyton,Basic,679.84,50,138,8,37,2025-07-15,6,No
+CUST01377,18,Female,Greeneshire,Basic,1129.19,6,182,5,31,2025-11-10,1,Yes
+CUST01378,18,Female,Williamston,Basic,358.85,78,148,18,50,2025-09-06,4,No
+CUST01379,60,Female,Anthonyton,Standard,1443.09,120,6,12,40,2025-10-24,5,Yes
+CUST01380,41,Male,Kristenton,Basic,1443.66,62,110,0,43,2025-09-30,5,No
+CUST01381,70,Female,Taylorbury,Basic,1128.79,73,16,14,21,2025-12-19,4,Yes
+CUST01382,47,Male,Davisview,Basic,753.86,57,100,6,8,2026-01-02,6,No
+CUST01383,55,Female,Thompsonton,Basic,194.69,2,33,16,32,2026-04-03,9,Yes
+CUST01384,34,Male,Sierrafurt,Premium,1390.31,17,61,15,1,2025-11-11,10,No
+CUST01385,54,Female,Tiffanyshire,Basic,1915.77,23,90,5,58,2025-08-03,1,No
+CUST01386,47,Female,Transide,Basic,121.86,7,165,15,12,2026-02-02,6,No
+CUST01387,70,Female,Russochester,Basic,610.84,103,7,18,18,2025-10-30,10,No
+CUST01388,49,Female,Lake Ronald,Standard,219.3,47,192,7,7,2026-01-08,7,No
+CUST01389,32,Male,Mackfort,Premium,1605.53,4,7,14,42,2026-05-21,4,No
+CUST01390,40,Female,Ashleychester,Premium,1868.91,106,112,17,9,2026-06-02,5,Yes
+CUST01391,56,Male,Nathanport,Standard,1798.37,119,151,20,57,2026-04-28,10,No
+CUST01392,58,Male,Clarkside,Basic,568.55,82,85,14,8,2026-05-27,6,Yes
+CUST01393,47,Female,North Maureenshire,Premium,966.03,29,30,14,47,2025-08-30,5,No
+CUST01394,52,Female,Shawnchester,Premium,1880.84,71,196,5,40,2025-09-07,5,Yes
+CUST01395,65,Male,West Petermouth,Standard,306.48,114,9,16,18,2026-01-20,7,No
+CUST01396,20,Male,Elizabethtown,Standard,1891.24,25,106,5,4,2026-05-08,1,Yes
+CUST01397,59,Male,West Richardbury,Premium,1098.86,27,156,13,0,2025-12-02,9,Yes
+CUST01398,18,Female,Mcbridebury,Premium,1746.39,47,168,6,53,2026-05-06,6,Yes
+CUST01399,38,Female,Daviston,Basic,346.98,37,87,17,29,2025-12-11,9,Yes
+CUST01400,29,Male,East Tylerberg,Basic,1333.49,28,168,20,14,2025-09-13,10,No
+CUST01401,41,Male,Jenkinsstad,Basic,790.15,32,163,12,31,2026-05-14,10,No
+CUST01402,49,Female,Andrewborough,Standard,1100.58,13,137,13,55,2025-07-14,6,Yes
+CUST01403,70,Female,East William,Basic,1564.86,19,40,13,14,2026-01-14,9,No
+CUST01404,26,Male,Tiffanyshire,Standard,1309.97,118,53,0,53,2025-10-06,9,No
+CUST01405,65,Male,Knightborough,Standard,1568.92,61,107,4,23,2025-07-12,5,No
+CUST01406,25,Male,Hudsonchester,Basic,446.46,28,129,14,2,2025-11-18,8,No
+CUST01407,45,Female,New Shelbyland,Premium,1451.65,36,12,2,6,2026-02-11,2,Yes
+CUST01408,31,Male,East Dawn,Premium,364.85,109,100,14,58,2026-03-16,1,Yes
+CUST01409,53,Male,Stacychester,Standard,1908.48,69,80,4,5,2025-09-24,7,No
+CUST01410,46,Male,New Melissa,Standard,799.86,77,189,17,1,2026-01-22,9,Yes
+CUST01411,30,Male,Hermanshire,Basic,31.57,85,181,4,34,2025-06-21,5,No
+CUST01412,42,Male,Lucaston,Basic,617.99,28,16,6,48,2025-07-25,1,No
+CUST01413,33,Male,Lake Roy,Premium,1519.98,104,51,13,5,2026-06-14,10,No
+CUST01414,44,Male,Port Nathan,Basic,1575.99,62,14,16,2,2025-12-15,3,Yes
+CUST01415,45,Male,Ellisview,Premium,1380.17,71,8,8,36,2026-06-17,6,Yes
+CUST01416,51,Male,Lawsonfurt,Basic,1929.68,46,70,11,11,2025-09-08,3,Yes
+CUST01417,43,Male,West Thomaschester,Standard,1534.38,100,110,6,41,2026-02-19,5,No
+CUST01418,28,Female,Mortonville,Standard,996.27,6,195,2,31,2025-10-19,8,No
+CUST01419,63,Male,Terriville,Basic,135.76,16,34,15,31,2025-12-02,2,Yes
+CUST01420,29,Male,Seanville,Basic,688.23,85,21,20,34,2026-05-22,6,Yes
+CUST01421,60,Male,Ryanmouth,Basic,1963.54,107,3,12,52,2026-05-13,6,No
+CUST01422,29,Male,Port Michael,Premium,817.5,8,42,0,58,2026-05-21,5,No
+CUST01423,50,Female,Nancyview,Premium,1137.39,78,93,3,49,2025-10-16,5,No
+CUST01424,47,Male,South Randyburgh,Premium,1324.11,19,79,7,21,2026-02-03,2,No
+CUST01425,64,Male,North Martinland,Standard,1715.72,91,18,3,38,2026-06-06,6,No
+CUST01426,67,Female,West Julie,Basic,1347.95,101,45,12,8,2026-05-04,7,No
+CUST01427,53,Male,Port Shawnchester,Basic,1079.45,82,120,8,27,2026-04-30,3,Yes
+CUST01428,32,Female,New Sarah,Basic,1354.98,19,118,2,12,2026-04-20,8,No
+CUST01429,53,Male,Davisfurt,Standard,1891.29,69,150,11,23,2025-06-23,3,No
+CUST01430,26,Male,West Vanessahaven,Standard,1127.5,85,129,10,27,2025-12-03,10,No
+CUST01431,54,Male,Sheilastad,Premium,15.79,116,23,19,37,2025-12-03,8,No
+CUST01432,60,Male,Lake Andreaberg,Standard,528.15,56,200,7,37,2025-12-08,5,No
+CUST01433,26,Female,South Phillipville,Basic,974.69,55,166,18,8,2025-08-21,6,No
+CUST01434,35,Female,Jaredbury,Basic,1777.82,81,112,7,50,2026-02-26,4,No
+CUST01435,39,Male,Brownburgh,Basic,1168.38,29,27,2,43,2025-08-17,1,No
+CUST01436,19,Male,Harperfort,Basic,1468.99,71,184,0,54,2025-10-28,4,Yes
+CUST01437,34,Female,Sawyerside,Standard,881.2,22,86,19,18,2026-01-22,4,No
+CUST01438,40,Female,Hernandezfort,Premium,63.31,67,90,18,2,2025-11-10,8,Yes
+CUST01439,66,Male,Port Sharonmouth,Basic,1928.21,62,65,16,56,2025-07-22,8,No
+CUST01440,71,Female,Melissafurt,Basic,1717.51,17,116,20,41,2026-01-04,2,Yes
+CUST01441,37,Female,New Jeffrey,Basic,1753.59,59,164,0,47,2026-05-14,9,No
+CUST01442,44,Female,Josephland,Standard,1947.32,106,37,15,34,2025-08-18,9,No
+CUST01443,74,Female,West Jill,Premium,1147.75,22,65,0,33,2025-12-28,4,No
+CUST01444,24,Male,Kevinberg,Premium,1259.81,46,74,2,3,2026-01-01,4,No
+CUST01445,50,Male,New Tammyton,Basic,529.29,47,133,4,46,2025-09-12,3,No
+CUST01446,64,Female,Danielmouth,Standard,38.39,42,68,1,13,2026-04-08,3,No
+CUST01447,35,Female,East David,Basic,1094.91,97,164,20,7,2026-03-11,1,No
+CUST01448,44,Male,East Cherylport,Standard,1257.97,44,86,11,11,2025-08-14,1,Yes
+CUST01449,29,Male,Port Paul,Premium,260.03,30,109,15,30,2025-12-17,4,Yes
+CUST01450,61,Male,Ericbury,Standard,1658.09,60,89,5,45,2025-10-06,9,No
+CUST01451,65,Female,Johntown,Standard,562.83,12,136,14,11,2025-12-16,10,No
+CUST01452,41,Male,South Paige,Premium,1909.38,67,130,4,7,2026-01-24,2,No
+CUST01453,36,Male,Leontown,Standard,1173.3,118,12,18,38,2026-02-22,1,No
+CUST01454,56,Female,Montesberg,Premium,1646.81,63,18,12,57,2025-07-18,3,Yes
+CUST01455,43,Female,New Jennifershire,Basic,1046.7,7,38,20,52,2025-07-08,9,Yes
+CUST01456,28,Female,Allisonshire,Basic,1627.9,116,48,15,52,2026-04-04,3,Yes
+CUST01457,71,Male,Simpsonport,Basic,1549.5,31,168,18,42,2026-04-26,10,No
+CUST01458,59,Male,Mindymouth,Premium,1830.33,71,197,10,13,2025-11-25,7,No
+CUST01459,25,Female,New Timothystad,Premium,1318.28,43,17,20,9,2025-07-23,2,Yes
+CUST01460,27,Female,Mckaybury,Standard,1934.39,43,10,1,11,2026-01-26,4,No
+CUST01461,55,Female,Toddfurt,Standard,1576.49,65,183,17,28,2026-02-12,8,No
+CUST01462,60,Male,Hardingberg,Standard,1451.86,112,37,11,26,2025-09-10,7,No
+CUST01463,73,Female,Hayleytown,Standard,1224.41,42,83,20,20,2025-12-19,8,No
+CUST01464,21,Female,Allenville,Premium,141.95,43,117,6,40,2026-06-10,10,No
+CUST01465,24,Male,Michaelland,Standard,595.63,50,49,1,5,2026-02-08,8,No
+CUST01466,58,Male,Kathrynborough,Basic,919.44,13,165,12,33,2025-09-10,7,No
+CUST01467,35,Male,Port Luis,Premium,1282.88,29,179,16,4,2025-11-06,8,No
+CUST01468,37,Female,North Derrickton,Premium,1490.76,100,200,9,48,2026-01-22,9,No
+CUST01469,63,Male,South Rebeccastad,Standard,1053.25,85,39,6,12,2026-02-02,7,No
+CUST01470,70,Male,Jenkinsmouth,Premium,818.55,48,102,9,12,2026-05-20,1,No
+CUST01471,32,Male,South Katherineview,Standard,497.61,100,64,2,10,2026-03-01,6,No
+CUST01472,31,Male,Spencertown,Basic,1336.14,28,143,5,53,2025-09-19,8,No
+CUST01473,45,Male,Hannahview,Basic,392.75,111,64,10,28,2025-09-14,9,No
+CUST01474,65,Female,Nguyenport,Standard,339.7,35,192,5,38,2026-01-06,8,No
+CUST01475,44,Female,New Christine,Standard,799.4,65,62,10,43,2026-04-26,4,Yes
+CUST01476,60,Male,Lake Jeanton,Standard,677.85,113,37,15,27,2026-05-31,3,No
+CUST01477,35,Female,East Frederickmouth,Standard,1038.62,75,11,1,12,2026-05-16,6,Yes
+CUST01478,29,Female,Port Donaldmouth,Premium,1797.14,115,8,12,44,2025-07-21,2,No
+CUST01479,58,Female,West Sarahton,Premium,486.12,91,86,14,56,2025-08-22,5,No
+CUST01480,65,Male,South Ginaside,Basic,1669.78,3,58,20,27,2025-10-14,4,Yes
+CUST01481,53,Female,Kristinview,Premium,1405.94,119,186,14,0,2026-03-02,6,Yes
+CUST01482,66,Female,Deannamouth,Standard,1092.52,76,160,16,32,2026-01-14,5,No
+CUST01483,18,Female,Colleenmouth,Standard,1034.65,7,98,1,37,2026-04-06,5,Yes
+CUST01484,36,Female,Port Johnfurt,Standard,560.85,40,103,2,52,2026-04-25,2,Yes
+CUST01485,32,Male,Robinton,Basic,1843.73,118,134,4,35,2026-06-01,10,No
+CUST01486,75,Female,Lake Matthewstad,Basic,1804.66,110,112,19,32,2025-08-12,10,Yes
+CUST01487,58,Male,Lake Eduardoburgh,Basic,1172.5,28,119,13,2,2025-09-27,7,No
+CUST01488,44,Male,West Jeff,Premium,645.26,5,67,5,19,2025-08-17,2,Yes
+CUST01489,59,Female,East Rebecca,Basic,996.33,108,62,3,19,2026-04-02,10,No
+CUST01490,65,Female,Carolville,Basic,1134.34,30,63,13,50,2025-07-27,2,Yes
+CUST01491,71,Female,East Taraville,Basic,1345.59,28,165,16,54,2025-07-07,1,Yes
+CUST01492,54,Female,Reyesberg,Basic,1297.9,25,116,6,44,2025-12-18,3,No
+CUST01493,68,Female,Adamfort,Premium,352.07,114,14,11,37,2025-08-10,9,No
+CUST01494,27,Female,Barkerbury,Premium,204.37,114,7,20,21,2025-09-09,3,No
+CUST01495,43,Female,South Davidland,Standard,1558.31,72,193,5,21,2025-10-31,3,No
+CUST01496,62,Male,Deniseville,Standard,940.86,112,64,19,26,2025-11-11,8,Yes
+CUST01497,62,Male,Lake Scott,Basic,838.38,27,56,11,52,2025-08-29,5,No
+CUST01498,55,Male,Dianeshire,Basic,734.06,92,159,14,58,2026-03-24,8,No
+CUST01499,32,Female,South Anthony,Premium,1067.62,70,99,15,7,2026-02-19,7,Yes
+CUST01500,20,Male,East Stephanie,Premium,316.15,70,123,8,4,2025-12-19,2,No
